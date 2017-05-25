@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blocks/red_sandstone_normal",
+        "up": "blocks/red_sandstone_normal",
+        "down": "blocks/red_sandstone_normal",
+        "north": "blocks/dispenser_powered_d_n",
+        "east": "blocks/dispenser_powered_d_e",
+        "south": "blocks/dispenser_powered_d_s",
+        "west": "blocks/dispenser_powered_d_w"
+    }
+}

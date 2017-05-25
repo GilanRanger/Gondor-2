@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "fern"},
+            { "model": "fern_1"},
+            { "model": "fern_2"}
+        ]
+    }
+}

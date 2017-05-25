@@ -1,0 +1,1651 @@
+Items:
+    wooden_door:
+        itemMaterial: WOOD_DOOR
+        damage: 0
+        display: Wooden door 1 [64:0]
+        category: Door
+        type: VANILLA
+    spruce_door:
+        itemMaterial: SPRUCE_DOOR_ITEM
+        damage: 0
+        display: Wooden door 3 [193:0]
+        category: Door
+        type: VANILLA
+    birch_door:
+        itemMaterial: BIRCH_DOOR_ITEM
+        damage: 0
+        display: Wooden door 3 [194:0]
+        category: Door
+        type: VANILLA
+    jungle_door:
+        itemMaterial: JUNGLE_DOOR_ITEM
+        damage: 0
+        display: Makeshift door [195:0]
+        category: Door
+        type: VANILLA
+    acacia_door:
+        itemMaterial: ACACIA_DOOR_ITEM
+        damage: 0
+        display: Wooden door 4 [196:0]
+        category: Door
+        type: VANILLA
+    dark_oak_door:
+        itemMaterial: DARK_OAK_DOOR_ITEM
+        damage: 0
+        display: Sturdy door [197:0]
+        category: Door
+        type: VANILLA
+    iron_door:
+        itemMaterial: IRON_DOOR
+        damage: 0
+        display: Prison cell door [71:0]
+        category: Door
+        type: VANILLA
+    birch_door_powered:
+        blockMaterial: BIRCH_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 126
+        display: Palace door [194:10]
+        category: Door
+        type: DOOR
+        powered: true
+    iron_door_powered:
+        blockMaterial: IRON_DOOR_BLOCK
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 127
+        display: Barn door [71:10]
+        category: Door
+        type: DOOR
+        powered: true
+    wooden_door_bottom:
+        blockMaterial: WOODEN_DOOR
+        dataValueNorth: 1
+        dataValueSouth: 3
+        dataValueEast: 2
+        dataValueWest: 0
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 128
+        display: Half wooden door 1 [64:0]
+        category: Door
+        type: FOUR_DIRECTIONS
+    spruce_door_bottom:
+        blockMaterial: SPRUCE_DOOR
+        dataValueNorth: 1
+        dataValueSouth: 3
+        dataValueEast: 2
+        dataValueWest: 0
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 129
+        display: Half wooden door 2 [193:0]
+        category: Door
+        type: FOUR_DIRECTIONS
+    birch_door_bottom:
+        blockMaterial: BIRCH_DOOR
+        dataValueNorth: 1
+        dataValueSouth: 3
+        dataValueEast: 2
+        dataValueWest: 0
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 130
+        display: Half wooden door 3 [194:0]
+        category: Door
+        type: FOUR_DIRECTIONS
+    jungle_door_bottom:
+        blockMaterial: JUNGLE_DOOR
+        dataValueNorth: 1
+        dataValueSouth: 3
+        dataValueEast: 2
+        dataValueWest: 0
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 131
+        display: Half makeshift door [195:0]
+        category: Door
+        type: FOUR_DIRECTIONS
+    acacia_door_bottom:
+        blockMaterial: ACACIA_DOOR
+        dataValueNorth: 1
+        dataValueSouth: 3
+        dataValueEast: 2
+        dataValueWest: 0
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 132
+        display: Half wooden door 4 [196:0]
+        category: Door
+        type: FOUR_DIRECTIONS
+    dark_oak_door_bottom:
+        blockMaterial: ACACIA_DOOR
+        dataValueNorth: 1
+        dataValueSouth: 3
+        dataValueEast: 2
+        dataValueWest: 0
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 133
+        display: Half sturdy door [197:0]
+        category: Door
+        type: FOUR_DIRECTIONS
+    iron_door_bottom:
+        blockMaterial: IRON_DOOR_BLOCK
+        dataValueNorth: 1
+        dataValueSouth: 3
+        dataValueEast: 2
+        dataValueWest: 0
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 134
+        display: Half prison cell door [71:0]
+        category: Door
+        type: FOUR_DIRECTIONS
+    spruce_door_powered:
+        blockMaterial: SPRUCE_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 135
+        display: Oak wood wall [193:10]
+        category: Door
+        type: THIN_WALL
+    spruce_door_powered_rh:
+        blockMaterial: SPRUCE_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 136
+        display: Birch wood wall [193:11]
+        category: Door
+        type: THIN_WALL
+        alternateType: true
+    wooden_door_powered:
+        blockMaterial: WOODEN_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 137
+        display: Light gray bricks wall [64:10]
+        category: Door
+        type: THIN_WALL
+    wooden_door_powered_rh:
+        blockMaterial: WOODEN_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 138
+        display: Small light gray bricks wall [64:11]
+        category: Door
+        type: THIN_WALL
+        alternateType: true
+    jungle_door_powered:
+        blockMaterial: JUNGLE_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 139
+        display: Sandstone bricks wall [195:10]
+        category: Door
+        type: THIN_WALL
+    jungle_door_powered_rh:
+        blockMaterial: JUNGLE_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 140
+        display: Small sandstone bricks wall [195:11]
+        category: Door
+        type: THIN_WALL
+        alternateType: true
+    acacia_door_powered:
+        blockMaterial: ACACIA_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 141
+        display: Dark gray bricks wall [196:10]
+        category: Door
+        type: THIN_WALL
+    acacia_door_powered_rh:
+        blockMaterial: ACACIA_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 142
+        display: Stone wall [196:11]
+        category: Door
+        type: THIN_WALL
+        alternateType: true
+    dark_oak_door_powered:
+        blockMaterial: DARK_OAK_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 143
+        display: White bricks wall [197:10]
+        category: Door
+        type: THIN_WALL
+    dark_oak_door_powered_rh:
+        blockMaterial: DARK_OAK_DOOR
+        itemMaterial: DIAMOND_LEGGINGS
+        damage: 144
+        display: Small white bricks wall [197:11]
+        category: Door
+        type: THIN_WALL
+        alternateType: true
+    trapdoor_planks_oak_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 270
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 270
+        display: ITEMBLOCK Oak planks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_planks_oak_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 271
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 271
+        display: ITEMBLOCK Oak planks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_planks_oak_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 272
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 272
+        display: ITEMBLOCK Oak planks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_planks_birch_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 273
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 273
+        display: ITEMBLOCK Birch planks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_planks_birch_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 274
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 274
+        display: ITEMBLOCK Birch planks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_planks_birch_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 275
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 275
+        display: ITEMBLOCK Birch planks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_sandstone_normal_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 276
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 276
+        display: ITEMBLOCK Large sandstone bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_sandstone_normal_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 277
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 277
+        display: ITEMBLOCK Large sandstone bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_sandstone_normal_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 278
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 278
+        display: ITEMBLOCK Large sandstone bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_red_sandstone_normal_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 279
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 279
+        display: ITEMBLOCK Small sandstone bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_red_sandstone_normal_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 280
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 280
+        display: ITEMBLOCK Small sandstone bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_red_sandstone_normal_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 281
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 281
+        display: ITEMBLOCK Small sandstone bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_sandstone_seamless_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 282
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 282
+        display: ITEMBLOCK Mossy large sandstone bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_sandstone_seamless_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 283
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 283
+        display: ITEMBLOCK Mossy large sandstone bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_sandstone_seamless_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 284
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 284
+        display: ITEMBLOCK Mossy large sandstone bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_red_sandstone_seamless_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 285
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 285
+        display: ITEMBLOCK Mossy small sandstone bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_red_sandstone_seamless_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 286
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 286
+        display: ITEMBLOCK Mossy small sandstone bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_red_sandstone_seamless_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 287
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 287
+        display: ITEMBLOCK Mossy small sandstone bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_sandstone_chiseled_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 288
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 288
+        display: ITEMBLOCK Sandstone ornament star open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_sandstone_chiseled_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 289
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 289
+        display: ITEMBLOCK Sandstone ornament star bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_sandstone_chiseled_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 290
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 290
+        display: ITEMBLOCK Sandstone ornament star top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_sandstone_smooth_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 291
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 291
+        display: ITEMBLOCK Smooth sandstone open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_sandstone_smooth_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 292
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 292
+        display: ITEMBLOCK Smooth sandstone bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_sandstone_smooth_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 293
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 293
+        display: ITEMBLOCK Smooth sandstone top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_nether_brick_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 294
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 294
+        display: ITEMBLOCK Red bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_nether_brick_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 295
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 295
+        display: ITEMBLOCK Red bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_nether_brick_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 296
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 296
+        display: ITEMBLOCK Red bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_nether_brick_seamless_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 297
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 297
+        display: ITEMBLOCK Brown bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_nether_brick_seamless_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 298
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 298
+        display: ITEMBLOCK Brown bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_nether_brick_seamless_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 299
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 299
+        display: ITEMBLOCK Brown bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_mushroom_block_s_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 300
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 300
+        display: ITEMBLOCK Mossy brown bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_mushroom_block_s_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 301
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 301
+        display: ITEMBLOCK Mossy brown bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_mushroom_block_s_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 302
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 302
+        display: ITEMBLOCK Mossy brown bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_quartz_normal_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 303
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 303
+        display: ITEMBLOCK Large white bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_quartz_normal_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 304
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 304
+        display: ITEMBLOCK Large white bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_quartz_normal_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 305
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 305
+        display: ITEMBLOCK Large white bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_quartz_seamless_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 306
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 306
+        display: ITEMBLOCK Mossy large white bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_quartz_seamless_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 307
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 307
+        display: ITEMBLOCK Mossy large white bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_quartz_seamless_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 308
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 308
+        display: ITEMBLOCK Mossy large white bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_quartz_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 309
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 309
+        display: ITEMBLOCK Cracked large white bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_quartz_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 310
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 310
+        display: ITEMBLOCK Cracked large white bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_quartz_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 311
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 311
+        display: ITEMBLOCK Cracked large white bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_end_stone_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 312
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 312
+        display: ITEMBLOCK Small white bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_end_stone_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 313
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 313
+        display: ITEMBLOCK Small white bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_end_stone_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 314
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 314
+        display: ITEMBLOCK Small white bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_end_bricks_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 315
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 315
+        display: ITEMBLOCK Weathered small white bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_end_bricks_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 316
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 316
+        display: ITEMBLOCK Weathered small white bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_end_bricks_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 317
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 317
+        display: ITEMBLOCK Weathered small white bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_quartz_chiseled_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 318
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 318
+        display: ITEMBLOCK Smooth white brick open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_quartz_chiseled_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 319
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 319
+        display: ITEMBLOCK Smooth white brick bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_quartz_chiseled_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 320
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 320
+        display: ITEMBLOCK Smooth white brick top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_stonebrick_normal_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 321
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 321
+        display: ITEMBLOCK Light gray bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_stonebrick_normal_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 322
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 322
+        display: ITEMBLOCK Light gray bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_stonebrick_normal_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 323
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 323
+        display: ITEMBLOCK Light gray bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_stonebrick_mossy_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 324
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 324
+        display: ITEMBLOCK Mossy light gray bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_stonebrick_mossy_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 325
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 325
+        display: ITEMBLOCK Mossy light gray bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_stonebrick_mossy_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 326
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 326
+        display: ITEMBLOCK Mossy light gray bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_stonebrick_cracked_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 327
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 327
+        display: ITEMBLOCK Cracked light gray bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_stonebrick_cracked_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 328
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 328
+        display: ITEMBLOCK Cracked light gray bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_stonebrick_cracked_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 329
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 329
+        display: ITEMBLOCK Cracked light gray bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_stonebrick_chiseled_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 330
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 330
+        display: ITEMBLOCK Light gray bricks ornament open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_stonebrick_chiseled_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 331
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 331
+        display: ITEMBLOCK Light gray bricks ornament bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_stonebrick_chiseled_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 332
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 332
+        display: ITEMBLOCK Light gray bricks ornament top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_stonebrick_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 333
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 333
+        display: ITEMBLOCK Small gray bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_stonebrick_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 334
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 334
+        display: ITEMBLOCK Small gray bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_stonebrick_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 335
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 335
+        display: ITEMBLOCK Small gray bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_stonebrick_seamless_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 336
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 336
+        display: ITEMBLOCK Light gray brick open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_stonebrick_seamless_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 337
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 337
+        display: ITEMBLOCK Light gray brick bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_stonebrick_seamless_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 338
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 338
+        display: ITEMBLOCK Light gray brick top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_brick_seamless_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 339
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 339
+        display: ITEMBLOCK Dark gray brick open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_brick_seamless_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 340
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 340
+        display: ITEMBLOCK Dark gray brick bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_brick_seamless_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 341
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 341
+        display: ITEMBLOCK Dark gray brick top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stonebrick_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 342
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 342
+        display: ITEMBLOCK Floor pattern block open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_monster_egg_stonebrick_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 343
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 343
+        display: ITEMBLOCK Floor pattern block bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stonebrick_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 344
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 344
+        display: ITEMBLOCK Floor pattern block top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stonebrick_mossy_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 345
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 345
+        display: ITEMBLOCK Floor pattern block open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_monster_egg_stonebrick_mossy_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 346
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 346
+        display: ITEMBLOCK Floor pattern block bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stonebrick_mossy_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 347
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 347
+        display: ITEMBLOCK Floor pattern block top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stonebrick_cracked_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 348
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 348
+        display: ITEMBLOCK Floor pattern block open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_monster_egg_stonebrick_cracked_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 349
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 349
+        display: ITEMBLOCK Floor pattern block bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stonebrick_cracked_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 350
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 350
+        display: ITEMBLOCK Floor pattern block top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stonebrick_chiseled_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 351
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 351
+        display: ITEMBLOCK Floor pattern block open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_monster_egg_stonebrick_chiseled_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 352
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 352
+        display: ITEMBLOCK Floor pattern block bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stonebrick_chiseled_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 353
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 353
+        display: ITEMBLOCK Floor pattern block top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_brick_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 354
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 354
+        display: ITEMBLOCK Dark gray bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_brick_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 355
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 355
+        display: ITEMBLOCK Dark gray bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_brick_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 356
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 356
+        display: ITEMBLOCK Dark gray bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_brick_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 357
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 357
+        display: ITEMBLOCK Cracked dark gray bricks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_brick_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 358
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 358
+        display: ITEMBLOCK Cracked dark gray bricks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_brick_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 359
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 359
+        display: ITEMBLOCK Cracked dark gray bricks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_stone_seamless_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 360
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 360
+        display: ITEMBLOCK Smooth stone block open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_stone_seamless_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 361
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 361
+        display: ITEMBLOCK Smooth stone block bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_stone_seamless_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 362
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 362
+        display: ITEMBLOCK Smooth stone block top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stone_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 363
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 363
+        display: ITEMBLOCK Ornamental stone block open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_monster_egg_stone_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 364
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 364
+        display: ITEMBLOCK Ornamental stone block bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_stone_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 365
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 365
+        display: ITEMBLOCK Ornamental stone block top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_stone_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 366
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 366
+        display: ITEMBLOCK Double stone slab open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_stone_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 367
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 367
+        display: ITEMBLOCK Double stone slab bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_stone_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 368
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 368
+        display: ITEMBLOCK Double stone slab top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_cobblestone_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 369
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 369
+        display: ITEMBLOCK Cobblestone open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_cobblestone_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 370
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 370
+        display: ITEMBLOCK Cobblestone bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_cobblestone_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 371
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 371
+        display: ITEMBLOCK Cobblestone top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_mossy_cobblestone_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 372
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 372
+        display: ITEMBLOCK Mossy cobblestone open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_mossy_cobblestone_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 373
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 373
+        display: ITEMBLOCK Mossy cobblestone bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_mossy_cobblestone_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 374
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 374
+        display: ITEMBLOCK Mossy cobblestone top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_cobblestone_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 375
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 375
+        display: ITEMBLOCK Black cobblestone open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_cobblestone_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 376
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 376
+        display: ITEMBLOCK Black cobblestone bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_cobblestone_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 377
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 377
+        display: ITEMBLOCK Black cobblestone top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_cobblestone_seamless_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 378
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 378
+        display: ITEMBLOCK Mixed cobblestone open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_cobblestone_seamless_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 379
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 379
+        display: ITEMBLOCK Mixed cobblestone bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_cobblestone_seamless_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 380
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 380
+        display: ITEMBLOCK Mixed cobblestone top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_cobblestone_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 381
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 381
+        display: ITEMBLOCK Red cobblestone open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_monster_egg_cobblestone_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 382
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 382
+        display: ITEMBLOCK Red cobblestone bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_monster_egg_cobblestone_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 383
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 383
+        display: ITEMBLOCK Red cobblestone top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_planks_acacia_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 384
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 384
+        display: ITEMBLOCK Brown wood planks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_planks_acacia_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 385
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 385
+        display: ITEMBLOCK Brown wood planks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_planks_acacia_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 386
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 386
+        display: ITEMBLOCK Brown wood planks top trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_planks_dark_oak_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
+        dataValueSouth: 4
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 387
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 387
+        display: ITEMBLOCK White wood planks open trapdoor
+        category: Door
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
+    trapdoor_double_slab_planks_dark_oak_bottom:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 0
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 388
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 388
+        display: ITEMBLOCK White wood planks bottom trapdoor
+        category: Door
+        type: ITEM_BLOCK
+    trapdoor_double_slab_planks_dark_oak_top:
+        blockMaterial: IRON_TRAPDOOR
+        blockDataValue: 8
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 389
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 389
+        display: ITEMBLOCK White wood planks top trapdoor
+        category: Door
+        type: ITEM_BLOCK

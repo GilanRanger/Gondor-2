@@ -1,0 +1,660 @@
+Items:
+    chest:
+      itemMaterial: CHEST
+      damage: 0
+      display: Chest [54:0]
+      category: Inter
+      type: VANILLA
+    trapped_chest:
+      itemMaterial: TRAPPED_CHEST
+      damage: 0
+      display: Chest [146:0]
+      category: Inter
+      type: VANILLA
+    ender_chest:
+      itemMaterial: ENDER_CHEST
+      damage: 0
+      display: Chest [130:0]
+      category: Inter
+      type: VANILLA
+    double_slab_planks_oak:
+      blockMaterial: WOOD_DOUBLE_STEP
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 163
+      display: Crate [125:0]
+      category: Inter
+      type: BLOCK
+    double_slab_planks_birch:
+      blockMaterial: WOOD_DOUBLE_STEP
+      dataValue: 2
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 164
+      display: Crate [125:2]
+      category: Inter
+      type: BLOCK
+    double_slab_planks_spruce:
+      blockMaterial: WOOD_DOUBLE_STEP
+      dataValue: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 165
+      display: Crate [125:1]
+      category: Inter
+      type: BLOCK
+    bookshelf:
+      itemMaterial: BOOKSHELF
+      damage: 0
+      display: Barrel [47:0]
+      category: Inter
+      type: VANILLA
+    double_slab_wood_old:
+      blockMaterial: DOUBLE_STEP
+      dataValueNorth: 2
+      dataValueWest: 10
+      dataValueSouth: 2
+      dataValueEast: 10
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 166
+      display: Bookshelf [43:2]
+      category: Inter
+      type: FOUR_DIRECTIONS
+    crafting_table:
+      itemMaterial: WORKBENCH
+      damage: 0
+      display: Workbench [58:0]
+      category: Inter
+      type: VANILLA
+    note_block:
+      itemMaterial: NOTE_BLOCK
+      damage: 0
+      display: Table [25:0]
+      category: Inter
+      type: VANILLA
+    jukebox:
+      itemMaterial: JUKEBOX
+      damage: 0
+      display: Drawers [84:0]
+      category: Inter
+      type: VANILLA
+    table_low_1:
+      blockMaterial: ENDER_PORTAL_FRAME
+      blockDataValue: 3
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 239
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 239
+      display: ITEMBLOCK Low table
+      category: Inter
+      type: ITEM_BLOCK
+    table_low_2:
+      blockMaterial: ENDER_PORTAL_FRAME
+      blockDataValue: 3
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 240
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 240
+      display: ITEMBLOCK Low table
+      category: Inter
+      type: ITEM_BLOCK
+    piston_head_normal:
+      blockMaterial: PISTON_EXTENSION
+      dataValueUp: 1
+      dataValueDown: 0
+      dataValueNorth: 2
+      dataValueWest: 4
+      dataValueSouth: 3
+      dataValueEast: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 167
+      display: Table [34:1]
+      category: Inter
+      type: SIX_FACES
+    furnace:
+      itemMaterial: FURNACE
+      damage: 0
+      display: Furnace [61:2]
+      category: Inter
+      type: VANILLA
+    lit_furnace:
+      blockMaterial: BURNING_FURNACE
+      dataValueNorth: 3
+      dataValueWest: 5
+      dataValueSouth: 2
+      dataValueEast: 4
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 168
+      display: Lit furnace [62:2]
+      category: Inter
+      type: FOUR_DIRECTIONS
+    cauldron_empty:
+      blockMaterial: CAULDRON
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 169
+      display: Empty cauldron [118:0]
+      category: Inter
+      type: BLOCK
+    cauldron_level1:
+      blockMaterial: CAULDRON
+      dataValue: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 170
+      display: Cauldron 1/3 filled [118:1]
+      category: Inter
+      type: BLOCK
+    cauldron_level2:
+      blockMaterial: CAULDRON
+      dataValue: 2
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 171
+      display: Cauldron 2/3 filled [118:2]
+      category: Inter
+      type: BLOCK
+    cauldron_level3:
+      blockMaterial: CAULDRON
+      dataValue: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 172
+      display: Cauldron 3/3 filled [118:3]
+      category: Inter
+      type: BLOCK
+    brewing_stand:
+      blockMaterial: BREWING_STAND
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 173
+      display: Suspension [117:0]
+      category: Inter
+      type: BLOCK
+    cactus_stage1:
+      blockMaterial: CACTUS
+      dataValue: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 174
+      display: Meat [81:1]
+      category: Inter
+      type: BLOCK
+    anvil:
+      itemMaterial: ANVIL
+      damage: 0
+      display: Anvil [145:0]
+      category: Inter
+      type: VANILLA
+    ladder:
+      blockMaterial: LADDER
+      dataValueNorth: 3
+      dataValueWest: 5
+      dataValueSouth: 2
+      dataValueEast: 4
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 175
+      display: Ladder [65:2]
+      category: Inter
+      type: FOUR_DIRECTIONS
+    cactus_stage6:
+      blockMaterial: CACTUS
+      dataValueNorth: 6
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 176
+      display: High seat [81:6]
+      category: Inter
+      type: FOUR_DIRECTIONS
+    stool_red:
+      blockMaterial: DAYLIGHT_DETECTOR_INVERTED
+      blockDataValue: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 241
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 241
+      display: ITEMBLOCK Red stool
+      category: Inter
+      type: ITEM_BLOCK
+    stool_wood:
+      blockMaterial: DAYLIGHT_DETECTOR_INVERTED
+      blockDataValue: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 242
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 242
+      display: ITEMBLOCK Wooden stool
+      category: Inter
+      type: ITEM_BLOCK
+    bed:
+      itemMaterial: BED
+      damage: 0
+      display: Bed [126:0]
+      category: Inter
+      type: VANILLA
+    bed_blue_half:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 243
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 243
+      display: ITEMBLOCK Blue stool
+      category: Inter
+      type: ITEM_BLOCK
+    bed_green_half:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 244
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 244
+      display: ITEMBLOCK Green stool
+      category: Inter
+      type: ITEM_BLOCK
+    bed_grey_half:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 245
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 245
+      display: ITEMBLOCK Poor stool
+      category: Inter
+      type: ITEM_BLOCK
+    curtain_blue_top:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 246
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 246
+      display: ITEMBLOCK Blue curtain top
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_blue:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 247
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 247
+      display: ITEMBLOCK Blue curtain
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_blue_bottom:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 248
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 248
+      display: ITEMBLOCK Blue curtain bottom
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_brown_top:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 249
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 249
+      display: ITEMBLOCK Brown curtain top
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_brown:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 250
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 250
+      display: ITEMBLOCK Brown curtain
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_brown_bottom:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 251
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 251
+      display: ITEMBLOCK Brown curtain bottom
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_gray_top:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 252
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 252
+      display: ITEMBLOCK Gray curtain top
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_gray:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 253
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 253
+      display: ITEMBLOCK Gray curtain
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_gray_bottom:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 254
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 254
+      display: ITEMBLOCK Gray curtain bottom
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_green_top:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 255
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 255
+      display: ITEMBLOCK Green curtain top
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_green:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 256
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 256
+      display: ITEMBLOCK Green curtain
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_green_bottom:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 257
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 257
+      display: ITEMBLOCK Green curtain bottom
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_red_top:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 258
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 258
+      display: ITEMBLOCK Red curtain top
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_red:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 259
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 259
+      display: ITEMBLOCK Red curtain
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_red_bottom:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 260
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 260
+      display: ITEMBLOCK Red curtain bottom
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_white_top:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 261
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 261
+      display: ITEMBLOCK White curtain top
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_white:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 262
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 262
+      display: ITEMBLOCK White curtain
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    curtain_white_bottom:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 263
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 263
+      display: ITEMBLOCK White curtain bottom
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    repeater_delay1:
+      blockMaterial: DIODE_BLOCK_OFF
+      dataValueNorth: 0
+      dataValueWest: 1
+      dataValueSouth: 2
+      dataValueEast: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 181
+      display: Candle plate
+      category: Inter
+      type: FOUR_DIRECTIONS
+    repeater_delay3_s:
+      blockMaterial: DIODE_BLOCK_OFF
+      dataValue: 8
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 179
+      display: Cloth mat [93:8]
+      category: Inter
+      type: BLOCK
+    repeater_delay3_w:
+      blockMaterial: DIODE_BLOCK_OFF
+      dataValue: 9
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 180
+      display: Leather mat [93:5]
+      category: Inter
+      type: BLOCK
+    cutlery:
+      blockMaterial: RAILS
+      dataValueNorth: 0
+      dataValueWest: 0
+      dataValueSouth: 0
+      dataValueEast: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 390
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 390
+      display: ITEMBLOCK Cutlery
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    plate_1:
+      blockMaterial: RAILS
+      blockDataValue: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 391
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 391
+      display: ITEMBLOCK Plate
+      category: Inter
+      type: ITEM_BLOCK
+    plate_2:
+      blockMaterial: RAILS
+      blockDataValue: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 392
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 392
+      display: ITEMBLOCK Fancy plate
+      category: Inter
+      type: ITEM_BLOCK
+    small_barrel:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 393
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 393
+      display: ITEMBLOCK Small barrel
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    shelf_1:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 394
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 394
+      display: ITEMBLOCK Bookshelf 1
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    shelf_2:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 395
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 395
+      display: ITEMBLOCK Bookshelf 2
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    beer_mug:
+      blockMaterial: STAINED_GLASS_PANE
+      dataValueNorth: 0
+      dataValueWest: 0
+      dataValueSouth: 0
+      dataValueEast: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 396
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 396
+      display: ITEMBLOCK Beer mug
+      category: Inter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+    bottle_1:
+      blockMaterial: STAINED_GLASS_PANE
+      blockDataValue: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 397
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 397
+      display: ITEMBLOCK Bottle of mineral water
+      category: Inter
+      type: ITEM_BLOCK
+    bottle_2:
+      blockMaterial: STAINED_GLASS_PANE
+      blockDataValue: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 398
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 398
+      display: ITEMBLOCK Vessel
+      category: Inter
+      type: ITEM_BLOCK

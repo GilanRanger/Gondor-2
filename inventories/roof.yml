@@ -1,0 +1,582 @@
+Items:
+   piston_sticky_extended_up:
+      blockMaterial: PISTON_STICKY_BASE
+      dataValue: 9
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 111
+      display: Sandstone chimney [29:9]
+      category: Roof
+      type: BLOCK
+   piston_normal_extended_up:
+      blockMaterial: PISTON_BASE
+      dataValue: 9
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 112
+      display: Light grey bricks chimney [33:9]
+      category: Roof
+      type: BLOCK
+   spruce_planks:
+      blockMaterial: WOOD
+      dataValue: 1
+      itemMaterial: WOOD
+      damage: 1
+      display: Grey shingles [5:1]
+      category: Roof
+      type: VANILLA
+   vertical_slab_planks_spruce:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 114
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 114
+      display: ITEMBLOCK Vertical grey shingles slab
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   spruce_stairs:
+      blockMaterial: SPRUCE_WOOD_STAIRS
+      dataValue: 0
+      itemMaterial: SPRUCE_WOOD_STAIRS
+      damage: 0
+      display: Grey shingles stair [134:0]
+      category: Roof
+      type: VANILLA
+   half_slab_spruce:
+      blockMaterial: WOOD_STEP
+      dataValue: 1
+      itemMaterial: WOOD_STEP
+      damage: 1
+      display: Grey shingles slab [126:1]
+      category: Roof
+      type: VANILLA
+   dark_oak_planks:
+      blockMaterial: WOOD
+      dataValue: 5
+      itemMaterial: WOOD
+      damage: 5
+      display: Blue shingles [5:5]
+      category: Roof
+      type: VANILLA
+   vertical_slab_planks_dark_oak:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 115
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 115
+      display: ITEMBLOCK Vertical blue shingles slab
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   dark_oak_stairs:
+      blockMaterial: DARK_OAK_STAIRS
+      dataValue: 0
+      itemMaterial: DARK_OAK_STAIRS
+      damage: 0
+      display: Blue shingles stair [164:0]
+      category: Roof
+      type: VANILLA
+   half_slab_dark_oak:
+      blockMaterial: WOOD_STEP
+      dataValue: 5
+      itemMaterial: WOOD_STEP
+      damage: 5
+      display: Blue shingles slab [126:5]
+      category: Roof
+      type: VANILLA
+   acacia_planks:
+      blockMaterial: WOOD
+      dataValue: 4
+      itemMaterial: WOOD
+      damage: 4
+      display: Green shingles [5:4]
+      category: Roof
+      type: VANILLA
+   vertical_slab_planks_acacia:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 116
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 116
+      display: ITEMBLOCK Vertical green shingles slab
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   acacia_stairs:
+      blockMaterial: ACACIA_STAIRS
+      dataValue: 0
+      itemMaterial: ACACIA_STAIRS
+      damage: 0
+      display: Green shingles stair [163:0]
+      category: Roof
+      type: VANILLA
+   half_slab_acacia:
+      blockMaterial: WOOD_STEP
+      dataValue: 4
+      itemMaterial: WOOD_STEP
+      damage: 4
+      display: Green shingles slab [126:4]
+      category: Roof
+      type: VANILLA
+   jungle_planks:
+      blockMaterial: WOOD
+      dataValue: 3
+      itemMaterial: WOOD
+      damage: 3
+      display: Orange shingles [5:3]
+      category: Roof
+      type: VANILLA
+   vertical_slab_planks_jungle:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 117
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 117
+      display: ITEMBLOCK Vertical orange shingles slab
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   jungle_stairs:
+      blockMaterial: JUNGLE_WOOD_STAIRS
+      dataValue: 0
+      itemMaterial: JUNGLE_WOOD_STAIRS
+      damage: 0
+      display: Orange shingles stair [136:0]
+      category: Roof
+      type: VANILLA
+   half_slab_jungle:
+      blockMaterial: WOOD_STEP
+      dataValue: 3
+      itemMaterial: WOOD_STEP
+      damage: 3
+      display: Orange shingles slab [126:3]
+      category: Roof
+      type: VANILLA
+   purpur_block:
+      blockMaterial: PURPUR_BLOCK
+      dataValue: 0
+      itemMaterial: PURPUR_BLOCK
+      damage: 0
+      display: Thatch [201:0]
+      category: Roof
+      type: VANILLA
+   vertical_slab_purpur_block:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 118
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 118
+      display: ITEMBLOCK Vertical thatch slab
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   purpur_stairs:
+      blockMaterial: PURPUR_STAIRS
+      dataValue: 0
+      itemMaterial: PURPUR_STAIRS
+      damage: 0
+      display: Thatch stair [203:0]
+      category: Roof
+      type: VANILLA
+   half_slab_purpur:
+      blockMaterial: PURPUR_SLAB
+      dataValue: 0
+      itemMaterial: PURPUR_SLAB
+      damage: 0
+      display: Thatch slab [205:0]
+      category: Roof
+      type: VANILLA
+   roof_shingles_brown:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 146
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 146
+      display: ITEMBLOCK Brown shingles
+      category: Roof
+      type: ITEM_BLOCK
+   vertical_slab_roof_shingles_brown:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 121
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 121
+      display: ITEMBLOCK Vertical brown shingles slab
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   stairs_roof_shingles_brown:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 3
+      dataValueWest: 1
+      dataValueSouth: 2
+      dataValueEast: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 128
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 149
+      display: ITEMBLOCK Brown shingles stairs
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   outer_stairs_roof_shingles_brown:
+      blockMaterial: STEP
+      dataValue: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 134
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 134
+      display: ITEMBLOCK Brown shingles stairs outer corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inner_stairs_roof_shingles_brown:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 3
+      dataValueWest: 1
+      dataValueSouth: 2
+      dataValueEast: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 135
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 135
+      display: ITEMBLOCK Brown shingles stairs inner corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_stairs_roof_shingles_brown:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 7
+      dataValueWest: 5
+      dataValueSouth: 6
+      dataValueEast: 4
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 129
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 152
+      display: ITEMBLOCK Brown shingles inverted stairs
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_outer_stairs_roof_shingles_brown:
+      blockMaterial: STEP
+      dataValue: 14
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 140
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 140
+      display: ITEMBLOCK Brown shingles inverted stairs outer corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_inner_stairs_roof_shingles_brown:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 7
+      dataValueWest: 5
+      dataValueSouth: 6
+      dataValueEast: 4
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 141
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 141
+      display: ITEMBLOCK Brown shingles inverted stairs inner corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   half_slab_roof_shingles_brown:
+      blockMaterial: STEP
+      blockDataValue: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 119
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 119
+      display: ITEMBLOCK Brown shingles slab (lower)
+      category: Roof
+      type: ITEM_BLOCK
+   upper_slab_roof_shingles_brown:
+      blockMaterial: STEP
+      blockDataValue: 14
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 120
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 120
+      display: ITEMBLOCK Brown shingles slab (upper)
+      category: Roof
+      type: ITEM_BLOCK
+   roof_shingles_red:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 147
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 147
+      display: ITEMBLOCK Red shingles
+      category: Roof
+      type: ITEM_BLOCK
+   vertical_slab_roof_shingles_red:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 124
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 124
+      display: ITEMBLOCK Vertical red shingles slab
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   stairs_roof_shingles_red:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 3
+      dataValueWest: 1
+      dataValueSouth: 2
+      dataValueEast: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 130
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 150
+      display: ITEMBLOCK Red shingles stairs
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   outer_stairs_roof_shingles_red:
+      blockMaterial: STEP
+      dataValue: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 136
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 136
+      display: ITEMBLOCK Red shingles stairs outer corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inner_stairs_roof_shingles_red:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 3
+      dataValueWest: 1
+      dataValueSouth: 2
+      dataValueEast: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 137
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 137
+      display: ITEMBLOCK Red shingles stairs inner corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_stairs_roof_shingles_red:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 7
+      dataValueWest: 5
+      dataValueSouth: 6
+      dataValueEast: 4
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 131
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 153
+      display: ITEMBLOCK Red shingles inverted stairs
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_outer_stairs_roof_shingles_red:
+      blockMaterial: STEP
+      dataValue: 14
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 142
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 142
+      display: ITEMBLOCK Red shingles inverted stairs outer corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_inner_stairs_roof_shingles_red:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 7
+      dataValueWest: 5
+      dataValueSouth: 6
+      dataValueEast: 4
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 143
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 143
+      display: ITEMBLOCK Red shingles inverted stairs inner corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   half_slab_roof_shingles_red:
+      blockMaterial: STEP
+      blockDataValue: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 122
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 122
+      display: ITEMBLOCK Red shingles slab (lower)
+      category: Roof
+      type: ITEM_BLOCK
+   upper_slab_roof_shingles_red:
+      blockMaterial: STEP
+      blockDataValue: 14
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 123
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 123
+      display: ITEMBLOCK Red shingles slab (upper)
+      category: Roof
+      type: ITEM_BLOCK
+   roof_thatch_dark:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 148
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 148
+      display: ITEMBLOCK Dark thatch
+      category: Roof
+      type: ITEM_BLOCK
+   vertical_slab_roof_thatch_dark:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 8
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 9
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 127
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 127
+      display: ITEMBLOCK Vertical dark thatch slab
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   stairs_roof_thatch_dark:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 3
+      dataValueWest: 1
+      dataValueSouth: 2
+      dataValueEast: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 132
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 151
+      display: ITEMBLOCK Dark thatch stairs
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   outer_stairs_roof_thatch_dark:
+      blockMaterial: STEP
+      dataValue: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 138
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 138
+      display: ITEMBLOCK Dark thatch stairs outer corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inner_stairs_roof_thatch_dark:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 3
+      dataValueWest: 1
+      dataValueSouth: 2
+      dataValueEast: 0
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 139
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 139
+      display: ITEMBLOCK Dark thatch stairs inner corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_stairs_roof_thatch_dark:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 7
+      dataValueWest: 5
+      dataValueSouth: 6
+      dataValueEast: 4
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 133
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 154
+      display: ITEMBLOCK Dark thatch inverted stairs
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_outer_stairs_roof_thatch_dark:
+      blockMaterial: STEP
+      dataValue: 14
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 144
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 144
+      display: ITEMBLOCK Dark thatch inverted stairs outer corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   inverted_inner_stairs_roof_thatch_dark:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValueNorth: 7
+      dataValueWest: 5
+      dataValueSouth: 6
+      dataValueEast: 4
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 145
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 145
+      display: ITEMBLOCK Dark thatch inverted stairs inner corner
+      category: Roof
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
+   half_slab_roof_thatch_dark:
+      blockMaterial: STEP
+      blockDataValue: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 125
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 125
+      display: ITEMBLOCK Dark thatch slab (lower)
+      category: Roof
+      type: ITEM_BLOCK
+   upper_slab_roof_thatch_dark:
+      blockMaterial: STEP
+      blockDataValue: 14
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 126
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 126
+      display: ITEMBLOCK Dark thatch slab (upper)
+      category: Roof
+      type: ITEM_BLOCK

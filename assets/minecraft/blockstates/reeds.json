@@ -1,0 +1,7 @@
+{
+    "multipart": [
+        {   "when": { "age": "0" },
+            "apply": { "model": "reeds_stage0", "uvlock": true }
+        }
+    ]
+}

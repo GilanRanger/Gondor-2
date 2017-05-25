@@ -1,0 +1,186 @@
+Items:
+    white_wool:
+      itemMaterial: WOOL
+      damage: 0
+      display: White wool block [35:0]
+      category: Misc
+      type: VANILLA
+    yellow_wool:
+      itemMaterial: WOOL
+      damage: 4
+      display: Yellow wool block [35:4]
+      category: Misc
+      type: VANILLA
+    orange_wool:
+      itemMaterial: WOOL
+      damage: 1
+      display: Orange wool block [35:1]
+      category: Misc
+      type: VANILLA
+    pink_wool:
+      itemMaterial: WOOL
+      damage: 6
+      display: Pink wool block [35:6]
+      category: Misc
+      type: VANILLA
+    red_wool:
+      itemMaterial: WOOL
+      damage: 14
+      display: Red wool block [35:14]
+      category: Misc
+      type: VANILLA
+    magenta_wool:
+      itemMaterial: WOOL
+      damage: 2
+      display: Magenta wool block [35:2]
+      category: Misc
+      type: VANILLA
+    purple_wool:
+      itemMaterial: WOOL
+      damage: 10
+      display: Purple wool block [35:10]
+      category: Misc
+      type: VANILLA
+    blue_wool:
+      itemMaterial: WOOL
+      damage: 11
+      display: Blue wool block [35:11]
+      category: Misc
+      type: VANILLA
+    light_blue_wool:
+      itemMaterial: WOOL
+      damage: 3
+      display: Light wool block [35:3]
+      category: Misc
+      type: VANILLA
+    cyan_wool:
+      itemMaterial: WOOL
+      damage: 9
+      display: Cyan wool block [35:9]
+      category: Misc
+      type: VANILLA
+    green_wool:
+      itemMaterial: WOOL
+      damage: 13
+      display: Green wool block [35:13]
+      category: Misc
+      type: VANILLA
+    lime_wool:
+      itemMaterial: WOOL
+      damage: 5
+      display: Lime wool block [35:5]
+      category: Misc
+      type: VANILLA
+    brown_wool:
+      itemMaterial: WOOL
+      damage: 12
+      display: Brown wool block [35:12]
+      category: Misc
+      type: VANILLA
+    silver_wool:
+      itemMaterial: WOOL
+      damage: 8
+      display: Light gray wool block [35:8]
+      category: Misc
+      type: VANILLA
+    gray_wool:
+      itemMaterial: WOOL
+      damage: 7
+      display: Dark gray wool block [35:7]
+      category: Misc
+      type: VANILLA
+    black_wool:
+      itemMaterial: WOOL
+      damage: 15
+      display: Black wool block [35:15]
+      category: Misc
+      type: VANILLA
+    glowstone:
+      itemMaterial: GLOWSTONE
+      damage: 0
+      display: Glowing stone [89:0]
+      category: Misc
+      type: VANILLA
+    dragon_egg:
+      itemMaterial: DRAGON_EGG
+      damage: 0
+      display: Palantír [122:0]
+      category: Misc
+      type: VANILLA
+    portal:
+      blockMaterial: PORTAL
+      dataValueWest: 2
+      dataValueNorth: 1
+      dataValueEast: 2
+      dataValueSouth: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 145
+      display: Eye of Sauron [90:0]
+      category: Misc
+      type: FOUR_DIRECTIONS
+    marker_accepted:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 155
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 155
+      display: ITEMBLOCK Marker Accepted
+      category: Misc
+      type: ITEM_BLOCK
+    marker_declined:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 156
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 156
+      display: ITEMBLOCK Marker Declined
+      category: Misc
+      type: ITEM_BLOCK
+    marker_finished:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 157
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 157
+      display: ITEMBLOCK Marker Finished
+      category: Misc
+      type: ITEM_BLOCK
+    marker_wip:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 158
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 158
+      display: ITEMBLOCK Marker WIP
+      category: Misc
+      type: ITEM_BLOCK
+    marker_comment:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 159
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 159
+      display: ITEMBLOCK Marker Comment
+      category: Misc
+      type: ITEM_BLOCK
+    marker_info:
+      blockMaterial: CACTUS
+      blockDataValue: 15
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 160
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 160
+      display: ITEMBLOCK Marker Info
+      category: Misc
+      type: ITEM_BLOCK

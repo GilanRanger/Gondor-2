@@ -1,0 +1,7 @@
+{
+    "parent": "block/fence_gate_closed",
+    "textures": {
+        "texture": "blocks/planks_acacia",
+		"particle": "blocks/invisible"
+    }
+}

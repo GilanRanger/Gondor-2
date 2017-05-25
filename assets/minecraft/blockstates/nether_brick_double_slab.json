@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "double_slab_nether_brick" },
+            { "model": "double_slab_nether_brick_1" },
+            { "model": "double_slab_nether_brick_2" },
+            { "model": "double_slab_nether_brick_3" },
+            { "model": "double_slab_nether_brick_4" },
+            { "model": "double_slab_nether_brick_5" },
+            { "model": "double_slab_nether_brick_6" }
+        ],
+        "all": [
+            { "model": "double_slab_nether_brick_seamless" },
+            { "model": "double_slab_nether_brick_seamless_1" },
+            { "model": "double_slab_nether_brick_seamless_2" },
+            { "model": "double_slab_nether_brick_seamless_3" },
+            { "model": "double_slab_nether_brick_seamless_4" },
+			{ "model": "double_slab_nether_brick_seamless_5" }
+        ]
+    }
+}
