@@ -1,6 +1,0 @@
-{
-    "parent": "itemblock/cube_all",
-    "textures": {
-        "all": "blocks/roof_thatch_dark"
-    }
-}

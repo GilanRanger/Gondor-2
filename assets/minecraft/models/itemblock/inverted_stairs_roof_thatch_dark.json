@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/inverted_stairs",
-    "textures": {
-        "bottom": "blocks/roof_thatch_dark",
-        "top": "blocks/roof_thatch_dark",
-        "side": "blocks/roof_thatch_dark"
-    }
-}

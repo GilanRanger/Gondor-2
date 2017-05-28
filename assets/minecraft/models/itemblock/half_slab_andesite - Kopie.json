@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/half_slab",
-    "textures": {
-        "bottom": "blocks/emerald_ore",
-        "top": "blocks/emerald_ore",
-        "side": "blocks/emerald_ore"
-    }
-}

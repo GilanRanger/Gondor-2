@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/half_slab",
-    "textures": {
-        "bottom": "blocks/diamond_ore",
-        "top": "blocks/diamond_ore",
-        "side": "blocks/diamond_ore"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "itemblock/cube_column",
-    "textures": {
-        "end": "blocks/marker_info_top",
-        "side": "blocks/marker_info_side"
-    }
-}

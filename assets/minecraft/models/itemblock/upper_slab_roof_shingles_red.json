@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/upper_slab",
-    "textures": {
-        "bottom": "blocks/roof_shingles_red",
-        "top": "blocks/roof_shingles_red",
-        "side": "blocks/roof_shingles_red"
-    }
-}
