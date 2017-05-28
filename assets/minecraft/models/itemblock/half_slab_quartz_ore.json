@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/half_slab",
-    "textures": {
-        "bottom": "blocks/quartz_ore",
-        "top": "blocks/quartz_ore",
-        "side": "blocks/quartz_ore"
-    }
-}

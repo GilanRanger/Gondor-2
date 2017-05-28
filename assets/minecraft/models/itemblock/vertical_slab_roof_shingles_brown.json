@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/vertical_slab",
-    "textures": {
-        "bottom": "blocks/roof_shingles_brown",
-        "top": "blocks/roof_shingles_brown",
-        "side": "blocks/roof_shingles_brown"
-    }
-}

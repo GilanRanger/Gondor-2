@@ -479,30 +479,6 @@ Items:
       display: Ornamental white pillar [216:0]
       category: Block
       type: VANILLA
-    chorus_flower_stage3:
-      blockMaterial: CHORUS_FLOWER
-      dataValue: 3
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 296
-      display: Fancy white bricks pillar bottom [200:3]
-      category: Block
-      type: BLOCK
-    chorus_flower_stage4:
-       blockMaterial: CHORUS_FLOWER
-       dataValue: 4
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 297
-       display: Fancy white bricks pillar middle [200:4]
-       category: Block
-       type: BLOCK
-    chorus_flower_stage5:
-       blockMaterial: CHORUS_FLOWER
-       dataValue: 5
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 298
-       display: Fancy white bricks pillar top [200:5]
-       category: Block
-       type: BLOCK
     anvil_damage1_ne:
       blockMaterial: ANVIL
       dataValueNorth: 7
@@ -514,6 +490,30 @@ Items:
       display: Smooth white brick balustrade [145:6]
       category: Block
       type: FOUR_DIRECTIONS
+    chorus_flower_stage0:
+      blockMaterial: CHORUS_FLOWER
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 293
+      display: Fancy grey bricks pillar bottom [200:0]
+      category: Block
+      type: BLOCK
+    chorus_flower_stage1:
+       blockMaterial: CHORUS_FLOWER
+       dataValue: 1
+       itemMaterial: DIAMOND_LEGGINGS
+       damage: 294
+       display: Fancy grey bricks pillar middle [200:1]
+       category: Block
+       type: BLOCK
+    chorus_flower_stage2:
+       blockMaterial: CHORUS_FLOWER
+       dataValue: 2
+       itemMaterial: DIAMOND_LEGGINGS
+       damage: 295
+       display: Fancy grey bricks pillar top [200:2]
+       category: Block
+       type: BLOCK
     stonebrick_normal:
       blockMaterial: SMOOTH_BRICK
       dataValue: 0
@@ -624,28 +624,28 @@ Items:
       display: Smooth gray brick balustrade [145:4]
       category: Block
       type: FOUR_DIRECTIONS
-    chorus_flower_stage0:
+    chorus_flower_stage3:
       blockMaterial: CHORUS_FLOWER
-      dataValue: 0
+      dataValue: 3
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 293
-      display: Fancy grey bricks pillar bottom [200:0]
+      damage: 296
+      display: Fancy white bricks pillar bottom [200:3]
       category: Block
       type: BLOCK
-    chorus_flower_stage1:
+    chorus_flower_stage4:
        blockMaterial: CHORUS_FLOWER
-       dataValue: 1
+       dataValue: 4
        itemMaterial: DIAMOND_LEGGINGS
-       damage: 294
-       display: Fancy grey bricks pillar middle [200:1]
+       damage: 297
+       display: Fancy white bricks pillar middle [200:4]
        category: Block
        type: BLOCK
-    chorus_flower_stage2:
+    chorus_flower_stage5:
        blockMaterial: CHORUS_FLOWER
-       dataValue: 2
+       dataValue: 5
        itemMaterial: DIAMOND_LEGGINGS
-       damage: 295
-       display: Fancy grey bricks pillar top [200:2]
+       damage: 298
+       display: Fancy white bricks pillar top [200:5]
        category: Block
        type: BLOCK
     monster_egg_stonebrick_mossy:

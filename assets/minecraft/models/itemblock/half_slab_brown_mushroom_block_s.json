@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/half_slab",
-    "textures": {
-        "bottom": "blocks/brown_mushroom_block_s",
-        "top": "blocks/brown_mushroom_block_s",
-        "side": "blocks/brown_mushroom_block_s"
-    }
-}

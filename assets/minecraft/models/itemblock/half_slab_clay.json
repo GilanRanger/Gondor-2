@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/half_slab",
-    "textures": {
-        "bottom": "blocks/clay",
-        "top": "blocks/clay",
-		"side": "blocks/clay"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "itemblock/half_slab",
-    "textures": {
-        "bottom": "blocks/monster_egg_cobblestone",
-        "top": "blocks/monster_egg_cobblestone",
-		"side": "blocks/monster_egg_cobblestone"
-    }
-}
