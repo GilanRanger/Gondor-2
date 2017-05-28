@@ -168,6 +168,12 @@ Items:
       display: Suspension [117:0]
       category: Inter
       type: BLOCK
+    cake:
+      itemMaterial: CAKE
+      damage: 0
+      display: Bread [92:0]
+      category: Inter
+      type: VANILLA
     cactus_stage1:
       blockMaterial: CACTUS
       dataValue: 1
@@ -176,12 +182,17 @@ Items:
       display: Meat [81:1]
       category: Inter
       type: BLOCK
-    anvil:
-      itemMaterial: ANVIL
-      damage: 0
+    anvil_damage0_sw:
+      blockMaterial: ANVIL
+      dataValueNorth: 1
+      dataValueWest: 0
+      dataValueSouth: 1
+      dataValueEast: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 287
       display: Anvil [145:0]
       category: Inter
-      type: VANILLA
+      type: FOUR_DIRECTIONS
     ladder:
       blockMaterial: LADDER
       dataValueNorth: 3
@@ -266,11 +277,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK
     curtain_blue_top:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 246
       contentHeight: 0.3125
@@ -280,11 +291,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_blue:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 247
       contentHeight: 0.3125
@@ -294,11 +305,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_blue_bottom:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 248
       contentHeight: 0.3125
@@ -308,11 +319,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_brown_top:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 249
       contentHeight: 0.3125
@@ -322,11 +333,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_brown:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 250
       contentHeight: 0.3125
@@ -336,11 +347,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_brown_bottom:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 251
       contentHeight: 0.3125
@@ -350,11 +361,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_gray_top:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 252
       contentHeight: 0.3125
@@ -364,11 +375,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_gray:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 253
       contentHeight: 0.3125
@@ -378,11 +389,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_gray_bottom:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 254
       contentHeight: 0.3125
@@ -392,11 +403,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_green_top:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 255
       contentHeight: 0.3125
@@ -406,11 +417,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_green:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 256
       contentHeight: 0.3125
@@ -420,11 +431,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_green_bottom:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 257
       contentHeight: 0.3125
@@ -434,11 +445,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_red_top:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 258
       contentHeight: 0.3125
@@ -448,11 +459,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_red:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 259
       contentHeight: 0.3125
@@ -462,11 +473,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_red_bottom:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 260
       contentHeight: 0.3125
@@ -476,11 +487,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_white_top:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 261
       contentHeight: 0.3125
@@ -490,11 +501,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_white:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 262
       contentHeight: 0.3125
@@ -504,11 +515,11 @@ Items:
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
     curtain_white_bottom:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueNorth: 12
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 263
       contentHeight: 0.3125
@@ -517,33 +528,62 @@ Items:
       display: ITEMBLOCK White curtain bottom
       category: Inter
       type: ITEM_BLOCK_FOUR_DIRECTIONS
-    repeater_delay1:
+    repeater_delay1_s:
       blockMaterial: DIODE_BLOCK_OFF
-      dataValueNorth: 0
-      dataValueWest: 1
-      dataValueSouth: 2
-      dataValueEast: 3
+      dataValue: 0
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 181
-      display: Candle plate
-      category: Inter
-      type: FOUR_DIRECTIONS
-    repeater_delay3_s:
-      blockMaterial: DIODE_BLOCK_OFF
-      dataValue: 8
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 179
-      display: Cloth mat [93:8]
+      damage: 182
+      display: Candle plate [93:0]
       category: Inter
       type: BLOCK
-    repeater_delay3_w:
+    repeater_delay2_s:
       blockMaterial: DIODE_BLOCK_OFF
-      dataValue: 9
+      dataValue: 4
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 180
+      damage: 186
+      display: Cloth mat [93:4]
+      category: Inter
+      type: BLOCK
+    repeater_delay2_w:
+      blockMaterial: DIODE_BLOCK_OFF
+      dataValue: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 187
       display: Leather mat [93:5]
       category: Inter
       type: BLOCK
+    wooden_pressure_plate:
+      blockMaterial: WOOD_PLATE
+      dataValue: 0
+      itemMaterial: WOOD_PLATE
+      damage: 0
+      display: Wooden plate [72:0]
+      category: Inter
+      type: VANILLA
+    stone_pressure_plate:
+      blockMaterial: STONE_PLATE
+      dataValue: 0
+      itemMaterial: STONE_PLATE
+      damage: 0
+      display: Stone plate [70:0]
+      category: Inter
+      type: VANILLA
+    light_pressure_plate:
+      blockMaterial: GOLD_PLATE
+      dataValue: 0
+      itemMaterial: GOLD_PLATE
+      damage: 0
+      display: Plate [147:0]
+      category: Inter
+      type: VANILLA
+    heavy_pressure_plate:
+      blockMaterial: IRON_PLATE
+      dataValue: 0
+      itemMaterial: IRON_PLATE
+      damage: 0
+      display: Plate [148:0]
+      category: Inter
+      type: VANILLA
     cutlery:
       blockMaterial: RAILS
       dataValueNorth: 0
@@ -580,6 +620,61 @@ Items:
       display: ITEMBLOCK Fancy plate
       category: Inter
       type: ITEM_BLOCK
+    torch:
+      blockMaterial: TORCH
+      dataValue: 0
+      itemMaterial: TORCH
+      damage: 0
+      display: Torch [50:0]
+      category: Inter
+      type: VANILLA
+    lit_redstone_torch:
+      itemMaterial: REDSTONE_TORCH_ON
+      damage: 0
+      display: Candle (lit) [76:0]
+      category: Inter
+      type: VANILLA
+    unlit_redstone_torch:
+      blockMaterial: REDSTONE_TORCH_OFF
+      dataValueTop: 5
+      dataValueNorth: 4
+      dataValueSouth: 3
+      dataValueWest: 2
+      dataValueEast: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 284
+      display: Candle (unlit) [75:0]
+      category: Inter
+      type: FIVE_FACES
+    lever:
+      itemMaterial: LEVER
+      damage: 0
+      display: Lever / Barrel tap [69:0]
+      category: Inter
+      type: VANILLA
+    tripwire_hook:
+      blockMaterial: TRIPWIRE_HOOK
+      dataValueNorth: 0
+      dataValueSouth: 2
+      dataValueWest: 3
+      dataValueEast: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 285
+      display: Hook [131:0]
+      category: Inter
+      type: FOUR_DIRECTIONS
+    stone_button:
+      itemMaterial: STONE_BUTTON
+      damage: 0
+      display: Stone button [77:0]
+      category: Inter
+      type: VANILLA
+    wooden_button:
+      itemMaterial: WOOD_BUTTON
+      damage: 0
+      display: Stone button [143:0]
+      category: Inter
+      type: VANILLA
     small_barrel:
       blockMaterial: ACACIA_FENCE_GATE
       dataValueNorth: 8

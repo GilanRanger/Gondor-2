@@ -5,6 +5,12 @@ Items:
       display: Scarecrow head [91:0]
       category: Exter
       type: VANILLA
+    hay:
+      itemMaterial: HAY_BLOCK
+      damage: 0
+      display: Hay Block [91:0]
+      category: Exter
+      type: VANILLA
     dropper_nwd:
       blockMaterial: DROPPER
       dataValueX: 4
@@ -202,28 +208,28 @@ Items:
       display: Puddle [55:5]
       category: Exter
       type: BLOCK
-    repeater_delay2_s:
+    repeater_delay1_w:
       blockMaterial: DIODE_BLOCK_OFF
-      dataValue: 4
+      dataValue: 1
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 160
-      display: Forest ground [93:4]
+      damage: 183
+      display: Forest ground [93:1]
       category: Exter
       type: BLOCK
-    repeater_delay2_w:
+    repeater_delay1_n:
       blockMaterial: DIODE_BLOCK_OFF
-      dataValue: 5
+      dataValue: 2
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 161
-      display: Forest ground [93:5]
+      damage: 184
+      display: Forest ground [93:2]
       category: Exter
       type: BLOCK
-    repeater_delay2_n:
+    repeater_delay1_e:
       blockMaterial: DIODE_BLOCK_OFF
-      dataValue: 6
+      dataValue: 3
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 162
-      display: Forest ground [93:6]
+      damage: 185
+      display: Forest ground [93:3]
       category: Exter
       type: BLOCK
     glass_pane_red:
@@ -234,8 +240,8 @@ Items:
       type: VANILLA
     clothesline_empty:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueX: 8
-      dataValueZ: 9
+      dataValueX: 12
+      dataValueZ: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 182,183,184
       contentHeight: 0.3125
@@ -246,8 +252,8 @@ Items:
       type: ITEM_BLOCK_TWO_DIRECTIONS
     clothesline_dress:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueX: 8
-      dataValueZ: 9
+      dataValueX: 12
+      dataValueZ: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 185,186,187,188,189
       contentHeight: 0.3125
@@ -258,8 +264,8 @@ Items:
       type: ITEM_BLOCK_TWO_DIRECTIONS
     clothesline_shirt:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueX: 8
-      dataValueZ: 9
+      dataValueX: 12
+      dataValueZ: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 190,191,192,193,194,195,196,197,198
       contentHeight: 0.3125
@@ -270,8 +276,8 @@ Items:
       type: ITEM_BLOCK_TWO_DIRECTIONS
     clothesline_shirt_long:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueX: 8
-      dataValueZ: 9
+      dataValueX: 12
+      dataValueZ: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 199,200,201,202,203,204
       contentHeight: 0.3125
@@ -282,8 +288,8 @@ Items:
       type: ITEM_BLOCK_TWO_DIRECTIONS
     clothesline_pants:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueX: 8
-      dataValueZ: 9
+      dataValueX: 12
+      dataValueZ: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 205,206,207,208,209,210
       contentHeight: 0.3125
@@ -294,8 +300,8 @@ Items:
       type: ITEM_BLOCK_TWO_DIRECTIONS
     clothesline_socks:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueX: 8
-      dataValueZ: 9
+      dataValueX: 12
+      dataValueZ: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 211,212,213,214,215,216,217,218
       contentHeight: 0.3125
@@ -306,8 +312,8 @@ Items:
       type: ITEM_BLOCK_TWO_DIRECTIONS
     clothesline_sheet:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueX: 8
-      dataValueZ: 9
+      dataValueX: 12
+      dataValueZ: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 219,220,221,222,223,224
       contentHeight: 0.3125
@@ -318,8 +324,8 @@ Items:
       type: ITEM_BLOCK_TWO_DIRECTIONS
     clothesline_rag:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueX: 8
-      dataValueZ: 9
+      dataValueX: 12
+      dataValueZ: 13
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 225,226,227,228,229,230,231,232,233,234,235,236,237,238
       contentHeight: 0.3125
