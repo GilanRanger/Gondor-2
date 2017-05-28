@@ -47,14 +47,17 @@ Items:
       display: White bricks wall [190:0]
       category: Fence
       type: VANILLA
-   jungle_fence_gate:
-      blockMaterial: JUNGLE_FENCE_GATE
-      dataValue: 0
-      itemMaterial: JUNGLE_FENCE_GATE
-      damage: 0
-      display: White bricks wall straight [185:0]
+   acacia_fence_gate_closed_ne:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueWest: 3
+      dataValueNorth: 2
+      dataValueEast: 3
+      dataValueSouth: 2
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 283
+      display: White bricks wall straight [187:2]
       category: Fence
-      type: VANILLA
+      type: FOUR_DIRECTIONS
    spruce_fence:
       blockMaterial: SPRUCE_FENCE
       dataValue: 0
@@ -63,14 +66,17 @@ Items:
       display: Light gray bricks wall [188:0]
       category: Fence
       type: VANILLA
-   spruce_fence_gate:
-      blockMaterial: SPRUCE_FENCE_GATE
-      dataValue: 0
-      itemMaterial: SPRUCE_FENCE_GATE
-      damage: 0
-      display: Light gray bricks wall straight [183:0]
+   acacia_fence_gate_closed_sw:
+      blockMaterial: ACACIA_FENCE_GATE
+      dataValueWest: 1
+      dataValueNorth: 0
+      dataValueEast: 1
+      dataValueSouth: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 282
+      display: Light gray bricks wall straight [187:0]
       category: Fence
-      type: VANILLA
+      type: FOUR_DIRECTIONS
    cobblestone_wall:
       blockMaterial: COBBLE_WALL
       dataValue: 0

@@ -1,23 +1,8 @@
 {
-    "parent": "block/block",
-    "ambientocclusion": false,
+    "parent": "block/half_slab",
     "textures": {
-        "particle": "blocks/repeater_delay2_n",
-        "slab": "blocks/repeater_delay2_n",
-        "top": "blocks/repeater_delay2_n",
-        "bottom": "blocks/repeater_delay2_n"
-    },
-    "elements": [
-        {   "from": [ 0, 0, 0 ],
-            "to": [ 16, 2, 16 ],
-            "faces": {
-                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#bottom"},
-                "up":    { "uv": [ 0,  0, 16, 16 ], "texture": "#top" },
-                "north": { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "north" },
-                "south": { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "south" },
-                "west":  { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "west" },
-                "east":  { "uv": [ 0, 14, 16, 16 ], "texture": "#slab", "cullface": "east" }
-            }
-        }
-    ]
+        "bottom": "blocks/double_slab_purpur_block",
+        "top": "blocks/double_slab_purpur_block",
+        "side": "blocks/double_slab_purpur_block"
+    }
 }

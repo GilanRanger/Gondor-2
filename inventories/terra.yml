@@ -54,7 +54,7 @@ Items:
       category: Terra
       type: VANILLA
    emerald_ore:
-      itemMaterial: DIAMOND_ORE
+      itemMaterial: EMERALD_ORE
       damage: 0
       display: Mossy stone [129:0]
       category: Terra
@@ -241,17 +241,14 @@ Items:
       display: Lava [11:0]
       category: Terra
       type: VANILLA
-   half_slab_stone_natural:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 1
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 1
-      display: ITEMBLOCK Stone slab (lower)
+   powered_repeater_delay3_n:
+      blockMaterial: DIODE_BLOCK_ON
+      dataValue: 10
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 208
+      display: Stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_stone_natural:
       blockMaterial: STEP
       blockDataValue: 14
@@ -263,17 +260,14 @@ Items:
       display: ITEMBLOCK Stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_granite:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 3
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 3
-      display: ITEMBLOCK Rough dark stone slab (lower)
+   powered_repeater_delay3_e:
+      blockMaterial: DIODE_BLOCK_ON
+      dataValue: 11
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 209
+      display: Rough dark stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_granite:
       blockMaterial: STEP
       blockDataValue: 14
@@ -285,17 +279,14 @@ Items:
       display: ITEMBLOCK Rough dark stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_quartz_ore:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 268
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 268
-      display: ITEMBLOCK Rough red stone slab (lower)
+   powered_repeater_delay4_s:
+      blockMaterial: DIODE_BLOCK_ON
+      dataValue: 12
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 210
+      display: Rough red stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_quartz_ore:
       blockMaterial: STEP
       blockDataValue: 14
@@ -307,17 +298,14 @@ Items:
       display: ITEMBLOCK Rough red stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_granite_smooth:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 5
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 5
-      display: ITEMBLOCK Smooth red stone slab (lower)
+   powered_repeater_delay4_w:
+      blockMaterial: DIODE_BLOCK_ON
+      dataValue: 13
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 211
+      display: Smooth red stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_granite_smooth:
       blockMaterial: STEP
       blockDataValue: 14
@@ -329,17 +317,14 @@ Items:
       display: ITEMBLOCK Smooth red stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_diorite:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 7
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 7
-      display: ITEMBLOCK Rough light stone slab (lower)
+   powered_repeater_delay4_n:
+      blockMaterial: DIODE_BLOCK_ON
+      dataValue: 14
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 212
+      display: Rough light stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_diorite:
       blockMaterial: STEP
       blockDataValue: 14
@@ -351,17 +336,14 @@ Items:
       display: ITEMBLOCK Rough light stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_diamond_ore:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 264
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 264
-      display: ITEMBLOCK Rough light stone 2 slab (lower)
+   powered_repeater_delay4_e:
+      blockMaterial: DIODE_BLOCK_ON
+      dataValue: 15
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 213
+      display: Rough light stone 2 slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_diamond_ore:
       blockMaterial: STEP
       blockDataValue: 14
@@ -373,17 +355,14 @@ Items:
       display: ITEMBLOCK Rough light stone 2 slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_diorite_smooth:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 9
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 9
-      display: ITEMBLOCK Smooth light stone slab (lower)
+   comparator_compare_s:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 214
+      display: Smooth light stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_diorite_smooth:
       blockMaterial: STEP
       blockDataValue: 14
@@ -395,17 +374,14 @@ Items:
       display: ITEMBLOCK Smooth light stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_andesite:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 11
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 11
-      display: ITEMBLOCK Mossy stone slab (lower)
+   comparator_compare_w:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 215
+      display: Rough dark stone 2 slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_andesite:
       blockMaterial: STEP
       blockDataValue: 14
@@ -414,20 +390,17 @@ Items:
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
       damage: 12
-      display: ITEMBLOCK Rough dark stone slab (upper)
+      display: ITEMBLOCK Rough dark stone 2 slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_andesite_smooth:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 13
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 13
-      display: ITEMBLOCK Smooth dark stone slab (lower)
+   comparator_compare_n:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 2
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 216
+      display: Smooth dark stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_andesite_smooth:
       blockMaterial: STEP
       blockDataValue: 14
@@ -439,17 +412,14 @@ Items:
       display: ITEMBLOCK Smooth dark stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_emerald_ore:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 266
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 266
-      display: ITEMBLOCK Mossy stone slab (lower)
+   comparator_compare_e:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 217
+      display: Mossy stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_emerald_ore:
       blockMaterial: STEP
       blockDataValue: 14
@@ -461,17 +431,14 @@ Items:
       display: ITEMBLOCK Mossy stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_hardened_clay:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 15
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 15
-      display: ITEMBLOCK Brown stone slab (lower)
+   comparator_subtract_s:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 4
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 218
+      display: Brown stone slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_hardened_clay:
       blockMaterial: STEP
       blockDataValue: 14
@@ -483,17 +450,14 @@ Items:
       display: ITEMBLOCK Brown stone slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_dirt:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 17
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 17
-      display: ITEMBLOCK Dirt slab (lower)
+   comparator_subtract_w:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 219
+      display: Dirt slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_dirt:
       blockMaterial: STEP
       blockDataValue: 14
@@ -505,17 +469,14 @@ Items:
       display: ITEMBLOCK Dirt slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_clay:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 19
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 19
-      display: ITEMBLOCK Light dirt slab (lower)
+   comparator_subtract_n:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 6
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 220
+      display: Light dirt slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_clay:
       blockMaterial: STEP
       blockDataValue: 14
@@ -527,17 +488,14 @@ Items:
       display: ITEMBLOCK Light dirt slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_soul_sand:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 21
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 21
-      display: ITEMBLOCK Dark dirt slab (lower)
+   comparator_subtract_e:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 221
+      display: Dark dirt slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_soul_sand:
       blockMaterial: STEP
       blockDataValue: 14
@@ -546,20 +504,17 @@ Items:
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
       damage: 22
-      display: ITEMBLOCK Coarse dirt slab (upper)
+      display: ITEMBLOCK Dark dirt slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_coarse_dirt:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 23
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 23
-      display: ITEMBLOCK Coarse dirt slab (lower)
+   comparator_powered_compare_s:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 8
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 222
+      display: Coarse dirt slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_coarse_dirt:
       blockMaterial: STEP
       blockDataValue: 14
@@ -568,20 +523,17 @@ Items:
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
       damage: 24
-      display: ITEMBLOCK Dark dirt slab (upper)
+      display: ITEMBLOCK Coarse dirt slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_sand:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 42
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 42
-      display: ITEMBLOCK Sand slab (lower)
+   comparator_powered_compare_w:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 9
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 223
+      display: Sand slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_sand:
       blockMaterial: STEP
       blockDataValue: 14
@@ -593,17 +545,14 @@ Items:
       display: ITEMBLOCK Sand slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_gravel:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 44
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 44
-      display: ITEMBLOCK Gravel slab (lower)
+   comparator_powered_compare_n:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 10
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 224
+      display: Gravel slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_gravel:
       blockMaterial: STEP
       blockDataValue: 14
@@ -615,17 +564,14 @@ Items:
       display: ITEMBLOCK Gravel slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_red_sand:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 46
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 46
-      display: ITEMBLOCK Red gravel slab (lower)
+   comparator_powered_compare_e:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 11
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 225
+      display: Red gravel slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_red_sand:
       blockMaterial: STEP
       blockDataValue: 14
@@ -637,17 +583,14 @@ Items:
       display: ITEMBLOCK Red gravel slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_nether_wart_block:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 48
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 48
-      display: ITEMBLOCK Rough gravel slab (lower)
+   comparator_powered_subtract_s:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 12
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 226
+      display: Rough gravel slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_nether_wart_block:
       blockMaterial: STEP
       blockDataValue: 14
@@ -659,17 +602,14 @@ Items:
       display: ITEMBLOCK Rough gravel slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   half_slab_mycelium:
-      blockMaterial: STEP
-      blockDataValue: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 50
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 50
-      display: ITEMBLOCK Greenish dirt slab (lower)
+   comparator_powered_subtract_w:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 13
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 227
+      display: Greenish dirt slab (lower)
       category: Terra
-      type: ITEM_BLOCK
+      type: BLOCK
    upper_slab_mycelium:
       blockMaterial: STEP
       blockDataValue: 14

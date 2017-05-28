@@ -1,0 +1,8 @@
+{
+    "parent": "itemblock/inner_stairs",
+    "textures": {
+        "bottom": "blocks/double_slab_planks_jungle",
+        "top": "blocks/double_slab_planks_jungle",
+        "side": "blocks/double_slab_planks_jungle"
+    }
+}
