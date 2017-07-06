@@ -19,7 +19,12 @@ Categories:
         itemMaterial: GOLD_HELMET
         damage: 11
         damageCurrent: 12
-        display: Building blocks
+        display: Building blocks (sandst. & stucco)
+    Block2:
+        itemMaterial: GOLD_HELMET
+        damage: 11
+        damageCurrent: 12
+        display: Building blocks 2 (wood, stone...)
     Roof:
         itemMaterial: GOLD_HELMET
         damage: 13

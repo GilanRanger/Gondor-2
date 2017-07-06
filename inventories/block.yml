@@ -1,52 +1,4 @@
 Items:
-    oak_planks:
-      blockMaterial: WOOD
-      dataValue: 0
-      itemMaterial: WOOD
-      damage: 0
-      display: Oak planks [5:0]
-      category: Block
-      type: VANILLA
-    oak_stairs:
-      blockMaterial: WOOD_STAIRS
-      dataValue: 0
-      itemMaterial: WOOD_STAIRS
-      damage: 0
-      display: Oak stairs [53:0]
-      category: Block
-      type: VANILLA
-    oak_slab:
-      blockMaterial: WOOD_STEP
-      dataValue: 0
-      itemMaterial: WOOD_STEP
-      damage: 0
-      display: Oak slab [126:0]
-      category: Block
-      type: VANILLA
-    birch_planks:
-      blockMaterial: WOOD
-      dataValue: 2
-      itemMaterial: WOOD
-      damage: 2
-      display: Birch slab [5:2]
-      category: Block
-      type: VANILLA
-    birch_stairs:
-      blockMaterial: BIRCH_WOOD_STAIRS
-      dataValue: 0
-      itemMaterial: BIRCH_WOOD_STAIRS
-      damage: 0
-      display: Birch stairs [135:0]
-      category: Block
-      type: VANILLA
-    birch_slab:
-      blockMaterial: WOOD_STEP
-      dataValue: 2
-      itemMaterial: WOOD_STEP
-      damage: 2
-      display: Birch slab [126:2]
-      category: Block
-      type: VANILLA
     sandstone:
       blockMaterial: SANDSTONE
       dataValue: 0
@@ -88,29 +40,29 @@ Items:
       category: Block
       type: BLOCK
     red_sandstone:
-       blockMaterial: RED_SANDSTONE
-       dataValue: 0
-       itemMaterial: RED_SANDSTONE
-       damage: 0
-       display: Small sandstone bricks [179:0]
-       category: Block
-       type: VANILLA
+      blockMaterial: RED_SANDSTONE
+      dataValue: 0
+      itemMaterial: RED_SANDSTONE
+      damage: 0
+      display: Small sandstone bricks [179:0]
+      category: Block
+      type: VANILLA
     red_sandstone_stairs:
-       blockMaterial: RED_SANDSTONE_STAIRS
-       dataValue: 0
-       itemMaterial: RED_SANDSTONE_STAIRS
-       damage: 0
-       display: Small sandstone bricks stairs [180:0]
-       category: Block
-       type: VANILLA
+      blockMaterial: RED_SANDSTONE_STAIRS
+      dataValue: 0
+      itemMaterial: RED_SANDSTONE_STAIRS
+      damage: 0
+      display: Small sandstone bricks stairs [180:0]
+      category: Block
+      type: VANILLA
     red_sandstone_slab:
-       blockMaterial: STONE_SLAB2
-       dataValue: 0
-       itemMaterial: STONE_SLAB2
-       damage: 0
-       display: Small sandstone bricks slab [182:0]
-       category: Block
-       type: VANILLA
+      blockMaterial: STONE_SLAB2
+      dataValue: 0
+      itemMaterial: STONE_SLAB2
+      damage: 0
+      display: Small sandstone bricks slab [182:0]
+      category: Block
+      type: VANILLA
     piston_sticky_extended:
       blockMaterial: PISTON_STICKY_BASE
       dataValueNorth: 11
@@ -123,13 +75,13 @@ Items:
       category: Block
       type: FOUR_DIRECTIONS
     double_slab_sandstone_seamless:
-       blockMaterial: DOUBLE_STEP
-       dataValue: 9
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 60
-       display: Mossy large sandstone bricks [43:9]
-       category: Block
-       type: BLOCK
+      blockMaterial: DOUBLE_STEP
+      dataValue: 9
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 60
+      display: Mossy large sandstone bricks [43:9]
+      category: Block
+      type: BLOCK
     double_slab_red_sandstone_seamless:
       blockMaterial: DOUBLE_STONE_SLAB2
       dataValue: 8
@@ -186,6 +138,28 @@ Items:
       display: Mixed colors sandstone bricks [181:0]
       category: Block
       type: BLOCK
+    white_concrete:
+      blockMaterial: CONCRETE
+      dataValueNorth: 0
+      dataValueSouth: 2
+      dataValueWest: 1
+      dataValueEast: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 308
+      display: Large + Small sandstone bricks combo [251:0]
+      category: Block
+      type: FOUR_DIRECTIONS
+    yellow_concrete:
+      blockMaterial: CONCRETE
+      dataValueNorth: 4
+      dataValueSouth: 4
+      dataValueWest: 5
+      dataValueEast: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 309
+      display: Sandstone ornament large bricks corner [251:4]
+      category: Block
+      type: FOUR_DIRECTIONS
     red_mushroom_block_inside_all:
       blockMaterial: HUGE_MUSHROOM_2
       dataValueNorth: 0
@@ -208,46 +182,17 @@ Items:
       display: Sandstone ornament corner [100:2]
       category: Block
       type: FOUR_DIRECTIONS
-    red_mushroom_block_w:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValue: 4
+    pink_concrete:
+      blockMaterial: CONCRETE
+      dataValueNorth: 7
+      dataValueSouth: 7
+      dataValueWest: 6
+      dataValueEast: 6
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 66
-      display: Weathered stucco (stucco left) [100:4]
+      damage: 307
+      display: Sandstone with red bricks corner [251:6]
       category: Block
-      type: BLOCK
-    red_mushroom_block_c:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValue: 5
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 67
-      display: Weathered stucco (stucco right, top) [100:5]
-      category: Block
-      type: BLOCK
-    red_mushroom_block_e:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValue: 6
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 68
-      display: Weathered stucco (stucco right, bottom) [100:6]
-      category: Block
-      type: BLOCK
-    red_mushroom_block_sw:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValue: 7
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 69
-      display: Weathered stucco (stucco inner) [100:7]
-      category: Block
-      type: BLOCK
-    red_mushroom_block_s:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValue: 8
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 70
-      display: Weathered stucco (stucco outer) [100:8]
-      category: Block
-      type: BLOCK
+      type: FOUR_DIRECTIONS
     piston_normal:
       blockMaterial: PISTON_BASE
       dataValueUp: 1
@@ -312,37 +257,37 @@ Items:
       category: Block
       type: BLOCK
     cactus_stage4:
-       blockMaterial: CACTUS
-       dataValue: 4
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 75
-       display: Fancy sandstone pillar middle [81:4]
-       category: Block
-       type: BLOCK
+      blockMaterial: CACTUS
+      dataValue: 4
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 75
+      display: Fancy sandstone pillar middle [81:4]
+      category: Block
+      type: BLOCK
     cactus_stage5:
-       blockMaterial: CACTUS
-       dataValue: 5
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 76
-       display: Fancy sandstone pillar top [81:5]
-       category: Block
-       type: BLOCK
+      blockMaterial: CACTUS
+      dataValue: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 76
+      display: Fancy sandstone pillar top [81:5]
+      category: Block
+      type: BLOCK
     double_slab_nether_brick:
-       blockMaterial: DOUBLE_STEP
-       dataValue: 6
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 77
-       display: Red bricks [43:6]
-       category: Block
-       type: BLOCK
+      blockMaterial: DOUBLE_STEP
+      dataValue: 6
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 77
+      display: Red bricks [43:6]
+      category: Block
+      type: BLOCK
     double_slab_netherbrick_seamless:
-       blockMaterial: DOUBLE_STEP
-       dataValue: 14
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 78
-       display: Brown bricks [43:14]
-       category: Block
-       type: BLOCK
+      blockMaterial: DOUBLE_STEP
+      dataValue: 14
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 78
+      display: Brown bricks [43:14]
+      category: Block
+      type: BLOCK
     brown_mushroom_block_s:
       blockMaterial: HUGE_MUSHROOM_1
       dataValue: 8
@@ -351,455 +296,28 @@ Items:
       display: Mossy brown bricks [99:8]
       category: Block
       type: BLOCK
-    dispenser_powered_d:
-      blockMaterial: DISPENSER
-      dataValue: 8
+    silver_concrete:
+      blockMaterial: CONCRETE
+      dataValueNorth: 9
+      dataValueSouth: 11
+      dataValueWest: 8
+      dataValueEast: 10
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 122
-      display: Sandstone / Brown bricks combo [23:8]
-      category: Block
-      type: BLOCK
-    dispenser_powered_u:
-      blockMaterial: DISPENSER
-      dataValue: 9
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 123
-      display: Sandstone / Brown bricks combo [23:9]
-      category: Block
-      type: BLOCK
-    dispenser_powered_n:
-      blockMaterial: DISPENSER
-      dataValue: 10
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 124
-      display: Sandstone / Brown bricks combo [23:10]
-      category: Block
-      type: BLOCK
-    dispenser_powered_s:
-      blockMaterial: DISPENSER
-      dataValue: 11
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 125
-      display: Sandstone / Brown bricks combo [23:11]
-      category: Block
-      type: BLOCK
-    quartz_normal:
-      blockMaterial: QUARTZ_BLOCK
-      dataValue: 0
-      itemMaterial: QUARTZ_BLOCK
-      damage: 0
-      display: Large white bricks [155:0]
-      category: Block
-      type: VANILLA
-    quartz_stairs:
-      blockMaterial: QUARTZ_STAIRS
-      dataValue: 0
-      itemMaterial: QUARTZ_STAIRS
-      damage: 0
-      display: Large white bricks stairs [156:0]
-      category: Block
-      type: VANILLA
-    quartz_slab:
-      blockMaterial: STEP
-      dataValue: 7
-      itemMaterial: STEP
-      damage: 7
-      display: Large white bricks slab [44:7]
-      category: Block
-      type: VANILLA
-    end_portal_frame_empty_south:
-      blockMaterial: ENDER_PORTAL_FRAME
-      dataValue: 0
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 79
-      display: Large white bricks thick slab [120:0]
-      category: Block
-      type: BLOCK
-    end_portal_frame_filled_south:
-       blockMaterial: ENDER_PORTAL_FRAME
-       dataValue: 4
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 80
-       display: Large white bricks thick slab with stub [120:4]
-       category: Block
-       type: BLOCK
-    double_slab_quartz_seamless:
-       blockMaterial: DOUBLE_STEP
-       dataValue: 15
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 81
-       display: Mossy large white bricks [43:15]
-       category: Block
-       type: BLOCK
-    double_slab_quartz:
-       blockMaterial: DOUBLE_STEP
-       dataValue: 7
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 82
-       display: Cracked large white bricks [43:7]
-       category: Block
-       type: BLOCK
-    end_stone:
-       blockMaterial: ENDER_STONE
-       dataValue: 0
-       itemMaterial: ENDER_STONE
-       damage: 0
-       display: Small white bricks [121:0]
-       category: Block
-       type: VANILLA
-    end_bricks:
-       blockMaterial: END_BRICKS
-       dataValue: 0
-       itemMaterial: END_BRICKS
-       damage: 0
-       display: Weathered small white bricks [206:0]
-       category: Block
-       type: VANILLA
-    quartz_chiseled:
-      blockMaterial: QUARTZ_BLOCK
-      dataValue: 1
-      itemMaterial: QUARTZ_BLOCK
-      damage: 1
-      display: Smooth white block [155:1]
-      category: Block
-      type: VANILLA
-    quartz_lines:
-      blockMaterial: QUARTZ_BLOCK
-      dataValue: 2
-      itemMaterial: QUARTZ_BLOCK
-      damage: 2
-      display: Smooth white pillar [155:2]
-      category: Block
-      type: VANILLA
-    bone_block:
-      blockMaterial: BONE_BLOCK
-      dataValue: 0
-      itemMaterial: BONE_BLOCK
-      damage: 0
-      display: Ornamental white pillar [216:0]
-      category: Block
-      type: VANILLA
-    anvil_damage1_ne:
-      blockMaterial: ANVIL
-      dataValueNorth: 7
-      dataValueWest: 6
-      dataValueSouth: 7
-      dataValueEast: 6
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 290
-      display: Smooth white brick balustrade [145:6]
+      damage: 312
+      display: Sandstone + brown bricks combo lower corner [251:8]
       category: Block
       type: FOUR_DIRECTIONS
-    chorus_flower_stage0:
-      blockMaterial: CHORUS_FLOWER
-      dataValue: 0
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 293
-      display: Fancy grey bricks pillar bottom [200:0]
-      category: Block
-      type: BLOCK
-    chorus_flower_stage1:
-       blockMaterial: CHORUS_FLOWER
-       dataValue: 1
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 294
-       display: Fancy grey bricks pillar middle [200:1]
-       category: Block
-       type: BLOCK
-    chorus_flower_stage2:
-       blockMaterial: CHORUS_FLOWER
-       dataValue: 2
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 295
-       display: Fancy grey bricks pillar top [200:2]
-       category: Block
-       type: BLOCK
-    stonebrick_normal:
-      blockMaterial: SMOOTH_BRICK
-      dataValue: 0
-      itemMaterial: SMOOTH_BRICK
-      damage: 0
-      display: Large light gray bricks [98:0]
-      category: Block
-      type: VANILLA
-    stone_brick_stairs:
-      blockMaterial: SMOOTH_STAIRS
-      dataValue: 0
-      itemMaterial: SMOOTH_STAIRS
-      damage: 0
-      display: Large light gray bricks stairs [109:0]
-      category: Block
-      type: VANILLA
-    stone_brick_slab:
-      blockMaterial: STEP
-      dataValue: 5
-      itemMaterial: STEP
-      damage: 5
-      display: Large light gray bricks slab [44:5]
-      category: Block
-      type: VANILLA
-    piston_normal_extended:
-      blockMaterial: PISTON_BASE
-      dataValueNorth: 11
-      dataValueSouth: 10
-      dataValueWest: 13
+    brown_concrete:
+      blockMaterial: CONCRETE
+      dataValueNorth: 15
+      dataValueSouth: 13
+      dataValueWest: 14
       dataValueEast: 12
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 83
-      display: Large light gray bricks indented wall [33:10]
+      damage: 313
+      display: Sandstone + brown bricks combo upper corner [251:12]
       category: Block
       type: FOUR_DIRECTIONS
-    stonebrick_mossy:
-      blockMaterial: SMOOTH_BRICK
-      dataValue: 1
-      itemMaterial: SMOOTH_BRICK
-      damage: 1
-      display: Mossy large light gray bricks [98:1]
-      category: Block
-      type: VANILLA
-    stonebrick_cracked:
-      blockMaterial: SMOOTH_BRICK
-      dataValue: 2
-      itemMaterial: SMOOTH_BRICK
-      damage: 2
-      display: Cracked large light gray bricks [98:2]
-      category: Block
-      type: VANILLA
-    stonebrick_chiseled:
-      blockMaterial: SMOOTH_BRICK
-      dataValue: 3
-      itemMaterial: SMOOTH_BRICK
-      damage: 3
-      display: Light gray bricks ornament star [98:3]
-      category: Block
-      type: VANILLA
-    double_slab_stonebrick:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 5
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 84
-      display: Small light gray bricks [43:5]
-      category: Block
-      type: BLOCK
-    double_slab_stonebrick_seamless:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 13
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 85
-      display: Light gray smooth block [43:13]
-      category: Block
-      type: BLOCK
-    double_slab_brick_seamless:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 12
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 86
-      display: Dark gray smooth block [43:12]
-      category: Block
-      type: BLOCK
-    purpur_pillar_top:
-      blockMaterial: PURPUR_PILLAR
-      dataValue: 0
-      itemMaterial: PURPUR_PILLAR
-      damage: 0
-      display: Gray pillar [202:0]
-      category: Block
-      type: VANILLA
-    monster_egg_stonebrick:
-      blockMaterial: MONSTER_EGGS
-      dataValue: 2
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 87
-      display: Floor pattern block [97:2]
-      category: Block
-      type: BLOCK
-    anvil_damage1_sw:
-      blockMaterial: ANVIL
-      dataValueNorth: 5
-      dataValueWest: 4
-      dataValueSouth: 5
-      dataValueEast: 4
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 289
-      display: Smooth gray brick balustrade [145:4]
-      category: Block
-      type: FOUR_DIRECTIONS
-    chorus_flower_stage3:
-      blockMaterial: CHORUS_FLOWER
-      dataValue: 3
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 296
-      display: Fancy white bricks pillar bottom [200:3]
-      category: Block
-      type: BLOCK
-    chorus_flower_stage4:
-       blockMaterial: CHORUS_FLOWER
-       dataValue: 4
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 297
-       display: Fancy white bricks pillar middle [200:4]
-       category: Block
-       type: BLOCK
-    chorus_flower_stage5:
-       blockMaterial: CHORUS_FLOWER
-       dataValue: 5
-       itemMaterial: DIAMOND_LEGGINGS
-       damage: 298
-       display: Fancy white bricks pillar top [200:5]
-       category: Block
-       type: BLOCK
-    monster_egg_stonebrick_mossy:
-      blockMaterial: MONSTER_EGGS
-      dataValue: 3
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 88
-      display: Floor pattern block [97:3]
-      category: Block
-      type: BLOCK
-    monster_egg_stonebrick_cracked:
-      blockMaterial: MONSTER_EGGS
-      dataValue: 4
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 89
-      display: Floor pattern block [97:4]
-      category: Block
-      type: BLOCK
-    monster_egg_stonebrick_chiseled:
-      blockMaterial: MONSTER_EGGS
-      dataValue: 5
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 90
-      display: Floor pattern block [97:5]
-      category: Block
-      type: BLOCK
-    brick:
-      blockMaterial: BRICK
-      dataValue: 0
-      itemMaterial: BRICK
-      damage: 0
-      display: Dark gray bricks [45:0]
-      category: Block
-      type: VANILLA
-    brick_stairs:
-      blockMaterial: BRICK_STAIRS
-      dataValue: 0
-      itemMaterial: BRICK_STAIRS
-      damage: 0
-      display: Dark gray bricks stairs [108:0]
-      category: Block
-      type: VANILLA
-    half_slab_brick:
-      blockMaterial: STEP
-      dataValue: 4
-      itemMaterial: STEP
-      damage: 4
-      display: Dark gray bricks slab [44:4]
-      category: Block
-      type: VANILLA
-    double_slab_brick:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 4
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 91
-      display: Cracked dark gray bricks [43:4]
-      category: Block
-      type: BLOCK
-    double_slab_stone_seamless:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 8
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 92
-      display: Smooth stone block [43:8]
-      category: Block
-      type: BLOCK
-    monster_egg_stone:
-      blockMaterial: MONSTER_EGGS
-      dataValue: 0
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 93
-      display: Stone ornament star [97:0]
-      category: Block
-      type: BLOCK
-    double_slab_stone:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 0
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 94
-      display: Double stone slab [43:0]
-      category: Block
-      type: BLOCK
-    half_slab_stone:
-      blockMaterial: STEP
-      dataValue: 0
-      itemMaterial: STEP
-      damage: 0
-      display: Stone slab [44:0]
-      category: Block
-      type: VANILLA
-    daylight_detector:
-      blockMaterial: DAYLIGHT_DETECTOR
-      dataValue: 0
-      itemMaterial: DAYLIGHT_DETECTOR
-      damage: 0
-      display: Double stone slab [151:0]
-      category: Block
-      type: VANILLA
-    cobblestone:
-      blockMaterial: COBBLESTONE
-      dataValue: 0
-      itemMaterial: COBBLESTONE
-      damage: 0
-      display: Cobblestone [4:0]
-      category: Block
-      type: VANILLA
-    cobblestone_stairs:
-      blockMaterial: COBBLESTONE_STAIRS
-      dataValue: 0
-      itemMaterial: COBBLESTONE_STAIRS
-      damage: 0
-      display: Cobblestone stairs [67:0]
-      category: Block
-      type: VANILLA
-    half_slab_cobblestone:
-      blockMaterial: STEP
-      dataValue: 3
-      itemMaterial: STEP
-      damage: 3
-      display: Cobblestone stairs [44:3]
-      category: Block
-      type: VANILLA
-    mossy_cobblestone:
-      blockMaterial: MOSSY_COBBLESTONE
-      dataValue: 0
-      itemMaterial: MOSSY_COBBLESTONE
-      damage: 0
-      display: Mossy cobblestone [48:0]
-      category: Block
-      type: VANILLA
-    double_slab_cobblestone:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 3
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 95
-      display: Black cobblestone [43:3]
-      category: Block
-      type: BLOCK
-    double_slab_cobblestone_seamless:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 11
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 96
-      display: Mixed cobblestone [43:11]
-      category: Block
-      type: BLOCK
-    monster_egg_cobblestone:
-      blockMaterial: MONSTER_EGGS
-      dataValue: 1
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 97
-      display: Red cobblestone [97:1]
-      category: Block
-      type: BLOCK
     white_stained_hardened_clay:
       blockMaterial: STAINED_CLAY
       dataValue: 0
@@ -896,65 +414,206 @@ Items:
       display: Light blue stucco [159:3]
       category: Block
       type: VANILLA
-    gold_block:
-      blockMaterial: GOLD_BLOCK
-      dataValue: 0
-      itemMaterial: GOLD_BLOCK
-      damage: 0
-      display: Gold ornamental block [41:0]
-      category: Block
-      type: VANILLA
-    iron_block:
-      blockMaterial: IRON_BLOCK
-      dataValue: 0
-      itemMaterial: IRON_BLOCK
-      damage: 0
-      display: White marble [42:0]
-      category: Block
-      type: VANILLA
-    anvil_damage2_ne:
-      blockMaterial: ANVIL
-      dataValueNorth: 11
-      dataValueWest: 10
-      dataValueSouth: 11
-      dataValueEast: 10
+    white_glazed_terracotta_sw:
+      blockMaterial: WHITE_GLAZED_TERRACOTTA
+      dataValueNorth: 0
+      dataValueWest: 1
+      dataValueSouth: 0
+      dataValueEast: 1
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 292
-      display: White marble balustrade [145:10]
+      damage: 299
+      display: Light stucco cornerstones [235:0]
       category: Block
       type: FOUR_DIRECTIONS
-    coal_block:
-      blockMaterial: COAL_BLOCK
+    white_glazed_terracotta_ne:
+      blockMaterial: WHITE_GLAZED_TERRACOTTA
+      dataValueNorth: 2
+      dataValueWest: 3
+      dataValueSouth: 2
+      dataValueEast: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 300
+      display: Light stucco large sandstone bricks cornerstones [235:2]
+      category: Block
+      type: FOUR_DIRECTIONS
+    orange_glazed_terracotta:
+      blockMaterial: ORANGE_GLAZED_TERRACOTTA
       dataValue: 0
-      itemMaterial: COAL_BLOCK
+      itemMaterial: ORANGE_GLAZED_TERRACOTTA
       damage: 0
-      display: Black marble [173:0]
+      display: Light stucco with small sandstone bricks [236:0]
       category: Block
       type: VANILLA
-    red_nether_brick:
-      blockMaterial: RED_NETHER_BRICK
+    magenta_glazed_terracotta:
+      blockMaterial: MAGENTA_GLAZED_TERRACOTTA
       dataValue: 0
-      itemMaterial: RED_NETHER_BRICK
+      itemMaterial: MAGENTA_GLAZED_TERRACOTTA
       damage: 0
-      display: Red tiles [215:0]
+      display: Weathered light stucco lower corner [237:0]
       category: Block
       type: VANILLA
-    double_slab_planks_acacia:
-      blockMaterial: WOOD_DOUBLE_STEP
-      dataValue: 4
+    light_blue_glazed_terracotta:
+      blockMaterial: LIGHT_BLUE_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: LIGHT_BLUE_GLAZED_TERRACOTTA
+      damage: 0
+      display: Weathered light stucco upper corner [238:0]
+      category: Block
+      type: VANILLA
+    red_mushroom_block_sw:
+      blockMaterial: HUGE_MUSHROOM_2
+      dataValue: 7
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 98
-      display: Brown wood planks [125:4]
+      damage: 69
+      display: Weathered stucco (stucco inner) [100:7]
       category: Block
       type: BLOCK
-    double_slab_planks_dark_oak:
-      blockMaterial: WOOD_DOUBLE_STEP
-      dataValue: 5
+    red_mushroom_block_s:
+      blockMaterial: HUGE_MUSHROOM_2
+      dataValue: 8
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 99
-      display: White wood planks [125:5]
+      damage: 70
+      display: Weathered stucco (stucco outer) [100:8]
       category: Block
       type: BLOCK
+    yellow_glazed_terracotta_sw:
+      blockMaterial: YELLOW_GLAZED_TERRACOTTA
+      dataValueNorth: 0
+      dataValueWest: 1
+      dataValueSouth: 0
+      dataValueEast: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 301
+      display: Pink stucco cornerstones [239:0]
+      category: Block
+      type: FOUR_DIRECTIONS
+    yellow_glazed_terracotta_ne:
+      blockMaterial: YELLOW_GLAZED_TERRACOTTA
+      dataValueNorth: 2
+      dataValueWest: 3
+      dataValueSouth: 2
+      dataValueEast: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 302
+      display: Pink stucco large sandstone bricks cornerstones [239:2]
+      category: Block
+      type: FOUR_DIRECTIONS
+    lime_glazed_terracotta:
+      blockMaterial: LIME_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: LIME_GLAZED_TERRACOTTA
+      damage: 0
+      display: Pink stucco with small sandstone bricks [240:0]
+      category: Block
+      type: VANILLA
+    pink_glazed_terracotta:
+      blockMaterial: PINK_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: PINK_GLAZED_TERRACOTTA
+      damage: 0
+      display: Weathered pink stucco lower corner [241:0]
+      category: Block
+      type: VANILLA
+    gray_glazed_terracotta:
+      blockMaterial: GRAY_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: GRAY_GLAZED_TERRACOTTA
+      damage: 0
+      display: Weathered pink stucco upper corner [242:0]
+      category: Block
+      type: VANILLA
+    silver_glazed_terracotta_sw:
+      blockMaterial: SILVER_GLAZED_TERRACOTTA
+      dataValueNorth: 0
+      dataValueWest: 1
+      dataValueSouth: 0
+      dataValueEast: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 303
+      display: Light blue stucco cornerstones [243:0]
+      category: Block
+      type: FOUR_DIRECTIONS
+    silver_glazed_terracotta_ne:
+      blockMaterial: SILVER_GLAZED_TERRACOTTA
+      dataValueNorth: 2
+      dataValueWest: 3
+      dataValueSouth: 2
+      dataValueEast: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 304
+      display: Light blue stucco large sandstone bricks cornerstones [243:2]
+      category: Block
+      type: FOUR_DIRECTIONS
+    cyan_glazed_terracotta:
+      blockMaterial: CYAN_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: CYAN_GLAZED_TERRACOTTA
+      damage: 0
+      display: Light blue stucco with small sandstone bricks [244:0]
+      category: Block
+      type: VANILLA
+    purple_glazed_terracotta:
+      blockMaterial: PURPLE_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: PURPLE_GLAZED_TERRACOTTA
+      damage: 0
+      display: Weathered light blue stucco lower corner [245:0]
+      category: Block
+      type: VANILLA
+    blue_glazed_terracotta:
+      blockMaterial: BLUE_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: BLUE_GLAZED_TERRACOTTA
+      damage: 0
+      display: Weathered light blue stucco upper corner [246:0]
+      category: Block
+      type: VANILLA
+    brown_glazed_terracotta_sw:
+      blockMaterial: BROWN_GLAZED_TERRACOTTA
+      dataValueNorth: 0
+      dataValueWest: 1
+      dataValueSouth: 0
+      dataValueEast: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 305
+      display: Blue stucco cornerstones [247:0]
+      category: Block
+      type: FOUR_DIRECTIONS
+    brown_glazed_terracotta_ne:
+      blockMaterial: BROWN_GLAZED_TERRACOTTA
+      dataValueNorth: 2
+      dataValueWest: 3
+      dataValueSouth: 2
+      dataValueEast: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 306
+      display: Blue stucco large sandstone bricks cornerstones [247:2]
+      category: Block
+      type: FOUR_DIRECTIONS
+    green_glazed_terracotta:
+      blockMaterial: GREEN_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: GREEN_GLAZED_TERRACOTTA
+      damage: 0
+      display: blue stucco with small sandstone bricks [248:0]
+      category: Block
+      type: VANILLA
+    red_glazed_terracotta:
+      blockMaterial: RED_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: RED_GLAZED_TERRACOTTA
+      damage: 0
+      display: Weathered blue stucco lower corner [249:0]
+      category: Block
+      type: VANILLA
+    black_glazed_terracotta:
+      blockMaterial: BLACK_GLAZED_TERRACOTTA
+      dataValue: 0
+      itemMaterial: BLACK_GLAZED_TERRACOTTA
+      damage: 0
+      display: Weathered blue stucco upper corner [250:0]
+      category: Block
+      type: VANILLA
     brown_hardened_clay_stained:
       blockMaterial: STAINED_CLAY
       dataValue: 12
@@ -1115,28 +774,6 @@ Items:
       display: Tudor block dark stucco outlines [99:7]
       category: Block
       type: BLOCK
-    oak_fence_gate_powered_closed:
-      blockMaterial: FENCE_GATE
-      dataValueNorth: 10
-      dataValueSouth: 8
-      dataValueWest: 9
-      dataValueEast: 11
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 228
-      display: Oak planks vertical slab [107:8]
-      category: Block
-      type: FOUR_DIRECTIONS
-    birch_fence_gate_powered_closed:
-      blockMaterial: BIRCH_FENCE_GATE
-      dataValueNorth: 10
-      dataValueSouth: 8
-      dataValueWest: 9
-      dataValueEast: 11
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 229
-      display: Birch planks vertical slab [184:8]
-      category: Block
-      type: FOUR_DIRECTIONS
     vertical_slab_sandstone_normal:
       blockMaterial: ACACIA_FENCE_GATE
       dataValueNorth: 8
@@ -1361,457 +998,5 @@ Items:
       itemMaterial: DIAMOND_CHESTPLATE
       damage: 113
       display: ITEMBLOCK Vertical mossy brown bricks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    vertical_slab_quartz_block:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 71
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 71
-      display: ITEMBLOCK Vertical white bricks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    repeater_delay4_n:
-      blockMaterial: DIODE_BLOCK_OFF
-      dataValue: 14
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 196
-      display: Mossy large white bricks slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_double_slab_quartz_seamless:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 73
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 73
-      display: ITEMBLOCK Mossy white bricks slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_double_slab_quartz_seamless:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 74
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 74
-      display: ITEMBLOCK Vertical mossy white bricks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    repeater_delay4_e:
-      blockMaterial: DIODE_BLOCK_OFF
-      dataValue: 15
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 197
-      display: Small white bricks slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_end_stone:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 76
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 76
-      display: ITEMBLOCK Small white bricks slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_end_stone:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 77
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 77
-      display: ITEMBLOCK Vertical small white bricks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    vertical_slab_stonebrick:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 78
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 78
-      display: ITEMBLOCK Vertical large light gray bricks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay1_s:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 0
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 198
-      display: Mossy light gray bricks slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_stonebrick_mossy:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 80
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 80
-      display: ITEMBLOCK Mossy light gray bricks slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_stonebrick_mossy:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 81
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 81
-      display: ITEMBLOCK Vertical mossy light bricks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay1_w:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 1
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 199
-      display: Small light gray bricks slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_double_slab_stonebrick:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 83
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 83
-      display: ITEMBLOCK Small light gray bricks slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_double_slab_stonebrick:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 84
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 84
-      display: ITEMBLOCK Vertical small light bricks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay1_n:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 2
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 200
-      display: Light stone brick slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_double_slab_stonebrick_seamless:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 86
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 86
-      display: ITEMBLOCK Light stone brick slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_double_slab_stonebrick_seamless:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 87
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 87
-      display: ITEMBLOCK Vertical light stone brick slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay1_e:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 3
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 201
-      display: Dark stone brick slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_double_slab_brick_seamless:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 89
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 89
-      display: ITEMBLOCK Dark stone brick slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_double_slab_brick_seamless:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 90
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 90
-      display: ITEMBLOCK Vertical dark stone brick slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    vertical_slab_brick:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 91
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 91
-      display: ITEMBLOCK Vertical dark gray bricks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    vertical_slab_cobblestone:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 92
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 92
-      display: ITEMBLOCK Vertical cobblestone slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay2_s:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 4
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 202
-      display: Mossy cobblestone slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_mossy_cobblestone:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 94
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 94
-      display: ITEMBLOCK Mossy cobblestone slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_mossy_cobblestone:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 95
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 95
-      display: ITEMBLOCK Vertical mossy cobblestone slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay2_w:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 5
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 203
-      display: Black cobblestone slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_double_slab_cobblestone:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 97
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 97
-      display: ITEMBLOCK Black cobblestone slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_double_slab_cobblestone:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 98
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 98
-      display: ITEMBLOCK Vertical black cobblestone slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay2_n:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 6
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 204
-      display: Mixed cobblestone slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_double_slab_cobblestone_seamless:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 100
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 100
-      display: ITEMBLOCK Mixed cobblestone slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_double_slab_cobblestone_seamless:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 101
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 101
-      display: ITEMBLOCK Vertical mixed cobblestone slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay2_e:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 7
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 205
-      display: Red cobblestone slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_monster_egg_cobblestone:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 103
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 103
-      display: ITEMBLOCK Red cobblestone slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_monster_egg_cobblestone:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 104
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 104
-      display: ITEMBLOCK Vertical red cobblestone slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay3_s:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 8
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 206
-      display: Brown wood planks slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_double_slab_planks_acacia:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 106
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 106
-      display: ITEMBLOCK Brown wood planks slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_double_slab_planks_acacia:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 107
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 107
-      display: ITEMBLOCK Vertical brown wood planks slab
-      category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    powered_repeater_delay3_w:
-      blockMaterial: DIODE_BLOCK_ON
-      dataValue: 9
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 207
-      display: White wood planks slab (lower)
-      category: Block
-      type: BLOCK
-    upper_slab_double_slab_planks_dark_oak:
-      blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 109
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 109
-      display: ITEMBLOCK White wood planks slab (upper)
-      category: Block
-      type: ITEM_BLOCK
-    vertical_slab_double_slab_planks_dark_oak:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 110
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 110
-      display: ITEMBLOCK Vertical white wood planks slab
       category: Block
       type: ITEM_BLOCK_FOUR_DIRECTIONS

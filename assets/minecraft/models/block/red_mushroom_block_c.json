@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "particle": "blocks/red_mushroom_block_c",
-        "all": "blocks/red_mushroom_block_c"
-    }
-}

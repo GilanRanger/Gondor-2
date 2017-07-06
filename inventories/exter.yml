@@ -53,6 +53,20 @@ Items:
       display: Lantern [138:0]
       category: Exter
       type: VANILLA
+    shutter:
+      blockMaterial: IRON_TRAPDOOR
+      dataValueNorth: 5
+      dataValueWest: 7
+      dataValueSouth: 4
+      dataValueEast: 6
+      contentItem: DIAMOND_CHESTPLATE
+      contentDamage: 399
+      contentHeight: 0.3125
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 399
+      display: ITEMBLOCK Shutter
+      category: Exter
+      type: ITEM_BLOCK_FOUR_DIRECTIONS
     cactus_stage2:
       blockMaterial: CACTUS
       dataValue: 2
