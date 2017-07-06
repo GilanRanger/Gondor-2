@@ -330,6 +330,23 @@
 		{ "predicate": { "damage": 0.59476 }, "name": 295, "model": "block/chorus_flower_stage2" },
 		{ "predicate": { "damage": 0.59677 }, "name": 296, "model": "block/chorus_flower_stage3" },
 		{ "predicate": { "damage": 0.59879 }, "name": 297, "model": "block/chorus_flower_stage4" },
-		{ "predicate": { "damage": 0.60081 }, "name": 298, "model": "block/chorus_flower_stage5" }
+		{ "predicate": { "damage": 0.60081 }, "name": 298, "model": "block/chorus_flower_stage5" },
+		{ "predicate": { "damage": 0.60282 }, "name": 299, "model": "block/white_glazed_terracotta_sw" },
+		{ "predicate": { "damage": 0.60484 }, "name": 300, "model": "block/white_glazed_terracotta_ne" },
+		
+		{ "predicate": { "damage": 0.60685 }, "name": 301, "model": "block/yellow_glazed_terracotta_sw" },
+		{ "predicate": { "damage": 0.60887 }, "name": 302, "model": "block/yellow_glazed_terracotta_ne" },
+		{ "predicate": { "damage": 0.61089 }, "name": 303, "model": "block/silver_glazed_terracotta_sw" },
+		{ "predicate": { "damage": 0.61290 }, "name": 304, "model": "block/silver_glazed_terracotta_ne" },
+		{ "predicate": { "damage": 0.61492 }, "name": 305, "model": "block/brown_glazed_terracotta_sw" },
+		{ "predicate": { "damage": 0.61694 }, "name": 306, "model": "block/brown_glazed_terracotta_ne" },
+		{ "predicate": { "damage": 0.61895 }, "name": 307, "model": "block/pink_concrete" },
+		{ "predicate": { "damage": 0.62097 }, "name": 308, "model": "block/white_concrete" },
+		{ "predicate": { "damage": 0.62298 }, "name": 309, "model": "block/yellow_concrete" },
+		{ "predicate": { "damage": 0.62500 }, "name": 310, "model": "block/white_concrete_powder" },
+		
+		{ "predicate": { "damage": 0.62702 }, "name": 311, "model": "block/yellow_concrete_powder" },
+		{ "predicate": { "damage": 0.62903 }, "name": 312, "model": "block/silver_concrete" },
+		{ "predicate": { "damage": 0.63105 }, "name": 313, "model": "block/brown_concrete" }
     ]
 }

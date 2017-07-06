@@ -58,6 +58,17 @@ Items:
       display: Bookshelf [43:2]
       category: Inter
       type: FOUR_DIRECTIONS
+    brown_shulker_box:
+      blockMaterial: BROWN_SHULKER_BOX
+      dataValueNorth: 2
+      dataValueWest: 4
+      dataValueSouth: 3
+      dataValueEast: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 166
+      display: OPENABLE Bookshelf [231:2]
+      category: Inter
+      type: FOUR_DIRECTIONS
     crafting_table:
       itemMaterial: WORKBENCH
       damage: 0
@@ -237,10 +248,106 @@ Items:
       display: ITEMBLOCK Wooden stool
       category: Inter
       type: ITEM_BLOCK
-    bed:
+    bed_white:
       itemMaterial: BED
       damage: 0
-      display: Bed [126:0]
+      display: White bed [355:0]
+      category: Inter
+      type: VANILLA
+    bed_orange:
+      itemMaterial: BED
+      damage: 1
+      display: Orange bed [355:1]
+      category: Inter
+      type: VANILLA
+    bed_magenta:
+      itemMaterial: BED
+      damage: 2
+      display: Magenta bed [355:2]
+      category: Inter
+      type: VANILLA
+    bed_light_blue:
+      itemMaterial: BED
+      damage: 3
+      display: Light blue bed [355:3]
+      category: Inter
+      type: VANILLA
+    bed_yellow:
+      itemMaterial: BED
+      damage: 4
+      display: Yellow bed [355:4]
+      category: Inter
+      type: VANILLA
+    bed_lime:
+      itemMaterial: BED
+      damage: 5
+      display: Lime bed [355:5]
+      category: Inter
+      type: VANILLA
+    bed_pink:
+      itemMaterial: BED
+      damage: 6
+      display: Pink bed [355:6]
+      category: Inter
+      type: VANILLA
+    bed_gray:
+      itemMaterial: BED
+      damage: 7
+      display: Gray bed [355:7]
+      category: Inter
+      type: VANILLA
+    bed_silver:
+      itemMaterial: BED
+      damage: 8
+      display: Light gray bed [355:8]
+      category: Inter
+      type: VANILLA
+    bed_cyan:
+      itemMaterial: BED
+      damage: 9
+      display: Cyan bed [355:9]
+      category: Inter
+      type: VANILLA
+    bed_purple:
+      itemMaterial: BED
+      damage: 10
+      display: Purple bed [355:10]
+      category: Inter
+      type: VANILLA
+    bed_blue:
+      itemMaterial: BED
+      damage: 11
+      display: Blue bed [355:11]
+      category: Inter
+      type: VANILLA
+    bed_brown:
+      itemMaterial: BED
+      damage: 12
+      display: Brown bed [355:12]
+      category: Inter
+      type: VANILLA
+    bed_green:
+      itemMaterial: BED
+      damage: 13
+      display: Green bed [355:13]
+      category: Inter
+      type: VANILLA
+    bed_red:
+      itemMaterial: BED
+      damage: 14
+      display: Red bed [355:14]
+      category: Inter
+      type: VANILLA
+    bed_black:
+      itemMaterial: BED
+      damage: 15
+      display: Bed [355:15]
+      category: Inter
+      type: VANILLA
+    bed_white:
+      itemMaterial: BED
+      damage: 16
+      display: Bed [355:16]
       category: Inter
       type: VANILLA
     bed_blue_half:
