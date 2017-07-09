@@ -1,7 +1,7 @@
 {
     "variants": {
         "normal": [
-            { "model": "silver_concrete_0", "y": 180 },
+            { "model": "silver_concrete", "y": 180 },
             { "model": "silver_concrete_1", "y": 180 },
             { "model": "silver_concrete_2", "y": 180 },
             { "model": "silver_concrete_3", "y": 180 },
