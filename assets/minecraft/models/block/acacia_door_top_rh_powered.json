@@ -1,7 +1,7 @@
 {
     "parent": "block/door_top_rh",
     "textures": {
-        "bottom": "blocks/stone",
-        "top": "blocks/stone"
+        "bottom": "blocks/door_acacia_lower",
+        "top": "blocks/door_acacia_upper"
     }
 }

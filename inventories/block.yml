@@ -193,6 +193,17 @@ Items:
       display: Sandstone with red bricks corner [251:6]
       category: Block
       type: FOUR_DIRECTIONS
+    silver_concrete_powder:
+      blockMaterial: CONCRETE_POWDER
+      dataValueNorth: 8 
+      dataValueSouth: 8 
+      dataValueWest: 9 
+      dataValueEast: 9 
+      itemMaterial: CONCRETE_POWDER
+      damage: 8 
+      display: Large sandstone with red bricks [252:8]
+      category: Block
+      type: FOUR_DIRECTIONS
     piston_normal:
       blockMaterial: PISTON_BASE
       dataValueUp: 1
@@ -522,6 +533,18 @@ Items:
       display: Weathered pink stucco upper corner [242:0]
       category: Block
       type: VANILLA
+    blue_concrete_powder:
+      itemMaterial: CONCRETE_POWDER
+      damage: 11 
+      display: Weathered pink stucco (stucco inner) [252:11]
+      category: Block
+      type: VANILLA
+    purple_concrete_powder:
+      itemMaterial: CONCRETE_POWDER
+      damage: 10 
+      display: Weathered pink stucco (stucco outer) [252:10]
+      category: Block
+      type: VANILLA
     silver_glazed_terracotta_sw:
       blockMaterial: SILVER_GLAZED_TERRACOTTA
       dataValueNorth: 0
@@ -568,6 +591,18 @@ Items:
       display: Weathered light blue stucco upper corner [246:0]
       category: Block
       type: VANILLA
+    green_concrete_powder:
+      itemMaterial: CONCRETE_POWDER
+      damage: 13 
+      display: Weathered light blue stucco (stucco inner) [252:13]
+      category: Block
+      type: VANILLA
+    brown_concrete_powder:
+      itemMaterial: CONCRETE_POWDER
+      damage: 12 
+      display: Weathered light blue stucco (stucco outer) [252:12]
+      category: Block
+      type: VANILLA
     brown_glazed_terracotta_sw:
       blockMaterial: BROWN_GLAZED_TERRACOTTA
       dataValueNorth: 0
@@ -612,6 +647,18 @@ Items:
       itemMaterial: BLACK_GLAZED_TERRACOTTA
       damage: 0
       display: Weathered blue stucco upper corner [250:0]
+      category: Block
+      type: VANILLA
+    black_concrete_powder:
+      itemMaterial: CONCRETE_POWDER
+      damage: 15 
+      display: Weathered blue stucco (stucco inner) [252:15]
+      category: Block
+      type: VANILLA
+    red_concrete_powder:
+      itemMaterial: CONCRETE_POWDER
+      damage: 14 
+      display: Weathered blue stucco (stucco outer) [252:14]
       category: Block
       type: VANILLA
     brown_hardened_clay_stained:
@@ -774,34 +821,28 @@ Items:
       display: Tudor block dark stucco outlines [99:7]
       category: Block
       type: BLOCK
-    vertical_slab_sandstone_normal:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 54
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 54
-      display: ITEMBLOCK Vertical large sandstone bricks slab
+    oak_fence_gate_powered_open:
+      blockMaterial: FENCE_GATE
+      dataValueNorth: 14
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 15
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 319
+      display: Vertical large sandstone bricks slab [107:12]
       category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    vertical_slab_red_sandstone_normal:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 55
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 55
-      display: ITEMBLOCK Vertical small sandstone bricks slab
+      type: FOUR_DIRECTIONS
+    spruce_fence_gate_powered_open:
+      blockMaterial: SPRUCE_FENCE_GATE
+      dataValueNorth: 14
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 15
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 320
+      display: Vertical small sandstone bricks slab [187:12]
       category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: FOUR_DIRECTIONS
     repeater_delay3_s:
       blockMaterial: DIODE_BLOCK_OFF
       dataValue: 8
@@ -953,20 +994,17 @@ Items:
       display: ITEMBLOCK Brown bricks slab (upper)
       category: Block
       type: ITEM_BLOCK
-    vertical_slab_double_slab_nether_brick_seamless:
+    acacia_fence_gate_powered_ne:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 70
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 70
-      display: ITEMBLOCK Vertical brown bricks slab
+      dataValueNorth: 10
+      dataValueWest: 15
+      dataValueSouth: 14
+      dataValueEast: 11
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 321
+      display: Vertical brown bricks slab [187:10]
       category: Block
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: FOUR_DIRECTIONS
     repeater_delay4_w:
       blockMaterial: DIODE_BLOCK_OFF
       dataValue: 13

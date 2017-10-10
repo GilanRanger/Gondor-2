@@ -13,6 +13,8 @@
         "facing=north,mode=compare,powered=true": { "model": "comparator_powered_compare_n" },
         "facing=east,mode=compare,powered=true": { "model": "comparator_powered_compare_e" },
         "facing=south,mode=subtract,powered=true": { "model": "comparator_powered_subtract_s"},
-        "facing=west,mode=subtract,powered=true": { "model": "comparator_powered_subtract_w" }
+        "facing=west,mode=subtract,powered=true": { "model": "comparator_powered_subtract_w" },
+        "facing=north,mode=subtract,powered=true": { "model": "comparator_powered_subtract_n"},
+        "facing=east,mode=subtract,powered=true": { "model": "comparator_powered_subtract_e" }
     }
 }

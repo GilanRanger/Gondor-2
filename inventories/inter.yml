@@ -87,28 +87,22 @@ Items:
       display: Drawers [84:0]
       category: Inter
       type: VANILLA
-    table_low_1:
+    ender_portal_frame_filled_east:
       blockMaterial: ENDER_PORTAL_FRAME
-      blockDataValue: 3
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 239
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 239
-      display: ITEMBLOCK Low table
+      dataValue: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 330
+      display: Low table 1 [120:7]
       category: Inter
-      type: ITEM_BLOCK
-    table_low_2:
+      type: BLOCK
+    ender_portal_frame_filled_west:
       blockMaterial: ENDER_PORTAL_FRAME
-      blockDataValue: 3
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 240
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 240
-      display: ITEMBLOCK Low table
+      dataValue: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 331
+      display: Low table 2 [120:5]
       category: Inter
-      type: ITEM_BLOCK
+      type: BLOCK
     piston_head_normal:
       blockMaterial: PISTON_EXTENSION
       dataValueUp: 1
@@ -226,28 +220,22 @@ Items:
       display: High seat [81:6]
       category: Inter
       type: FOUR_DIRECTIONS
-    stool_red:
-      blockMaterial: DAYLIGHT_DETECTOR_INVERTED
-      blockDataValue: 0
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 241
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 241
-      display: ITEMBLOCK Red stool
+    comparator_powered_subtract_n:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 14
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 332
+      display: Red stool [149:14]
       category: Inter
-      type: ITEM_BLOCK
-    stool_wood:
-      blockMaterial: DAYLIGHT_DETECTOR_INVERTED
-      blockDataValue: 0
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 242
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 242
-      display: ITEMBLOCK Wooden stool
+      type: BLOCK
+    comparator_powered_subtract_e:
+      blockMaterial: REDSTONE_COMPARATOR_OFF
+      dataValue: 15
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 333
+      display: Wooden stool [149:15]
       category: Inter
-      type: ITEM_BLOCK
+      type: BLOCK
     bed_white:
       itemMaterial: BED
       damage: 0
@@ -782,81 +770,65 @@ Items:
       display: Stone button [143:0]
       category: Inter
       type: VANILLA
-    small_barrel:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
+    round_barrel:
+      blockMaterial: SOIL
+      dataValueX: 6
+      dataValueY: 4
+      dataValueZ: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 109
+      display: Round barrel
+      category: Inter
+      type: THREE_AXIS
+    cocoa_age1_s:
+      blockMaterial: COCOA
+      dataValueNorth: 10
       dataValueWest: 9
       dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 393
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 393
-      display: ITEMBLOCK Small barrel
+      dataValueEast: 11
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 329 
+      display: Bookshelf 1 [127:8]
       category: Inter
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    shelf_1:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 394
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 394
-      display: ITEMBLOCK Bookshelf 1
+      type: FOUR_DIRECTIONS
+    cocoa_age2_s:
+      blockMaterial: COCOA
+      dataValueNorth: 6
+      dataValueWest: 5
+      dataValueSouth: 4
+      dataValueEast: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 328
+      display: Bookshelf 2 [127:4]
       category: Inter
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    shelf_2:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 395
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 395
-      display: ITEMBLOCK Bookshelf 2
-      category: Inter
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: FOUR_DIRECTIONS
     beer_mug:
-      blockMaterial: STAINED_GLASS_PANE
-      dataValueNorth: 0
-      dataValueWest: 0
-      dataValueSouth: 0
+      blockMaterial: MElON_STEM
+      dataValueNorth: 3
+      dataValueSouth: 1
+      dataValueWest: 2
       dataValueEast: 0
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 396
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 396
-      display: ITEMBLOCK Beer mug
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 124
+      display: Beer mug [105:0]
       category: Inter
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: FOUR_DIRECTIONS
     bottle_1:
-      blockMaterial: STAINED_GLASS_PANE
-      blockDataValue: 0
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 397
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 397
-      display: ITEMBLOCK Bottle of mineral water
+      blockMaterial: MELON_STEM
+      dataValue: 6
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 122
+      display: Bottle of mineral water [105:6]
       category: Inter
-      type: ITEM_BLOCK
+      type: BLOCK
     bottle_2:
-      blockMaterial: STAINED_GLASS_PANE
-      blockDataValue: 0
+      blockMaterial: MELON_STEM
+      dataValue: 7
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 398
       contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 398
-      display: ITEMBLOCK Vessel
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 123
+      display: Vessel [105:7]
       category: Inter
-      type: ITEM_BLOCK
+      type: BLOCK
