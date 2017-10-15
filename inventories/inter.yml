@@ -132,7 +132,7 @@ Items:
       damage: 168
       display: Lit furnace [62:2]
       category: Inter
-      type: FOUR_DIRECTIONS
+      type: BURNING_FURNACE
     cauldron_empty:
       blockMaterial: CAULDRON
       dataValue: 0
