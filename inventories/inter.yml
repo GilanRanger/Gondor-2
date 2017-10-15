@@ -339,8 +339,8 @@ Items:
       category: Inter
       type: VANILLA
     bed_blue_half:
-      blockMaterial: CACTUS
-      blockDataValue: 15
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 0
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 243
       contentHeight: 0.3125
@@ -350,8 +350,8 @@ Items:
       category: Inter
       type: ITEM_BLOCK
     bed_green_half:
-      blockMaterial: CACTUS
-      blockDataValue: 15
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 0
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 244
       contentHeight: 0.3125
@@ -361,8 +361,8 @@ Items:
       category: Inter
       type: ITEM_BLOCK
     bed_grey_half:
-      blockMaterial: CACTUS
-      blockDataValue: 15
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 0
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 245
       contentHeight: 0.3125
