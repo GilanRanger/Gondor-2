@@ -2,6 +2,6 @@
     "parent": "block/cube_column",
     "textures": {
         "end": "blocks/bookshelf_top",
-        "side": "blocks/bookshelf_side"
+        "side": "blocks/bookshelf"
     }
 }

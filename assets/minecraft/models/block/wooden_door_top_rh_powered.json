@@ -1,7 +1,7 @@
 {
     "parent": "block/door_top_rh",
     "textures": {
-        "bottom": "blocks/double_slab_stonebrick",
-        "top": "blocks/double_slab_stonebrick"
+        "bottom": "blocks/door_wood_lower",
+        "top": "blocks/door_wood_upper"
     }
 }

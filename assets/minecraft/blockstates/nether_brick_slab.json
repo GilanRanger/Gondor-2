@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "unused_cross_0" },
+        "half=top": { "model": "placeholder" }
+    }
+}

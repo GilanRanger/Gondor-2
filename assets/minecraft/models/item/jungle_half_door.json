@@ -1,6 +1,6 @@
 {
     "parent": "item/half_door_inventory",
     "textures": {
-		"bottom": "blocks/door_jungle_lower"
+		"bottom": "blocks/red_sandstone_normal"
     }
 }

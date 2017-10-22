@@ -54,19 +54,14 @@ Items:
       category: Exter
       type: VANILLA
     shutter:
-      blockMaterial: IRON_TRAPDOOR
-      dataValueNorth: 5
-      dataValueWest: 7
-      dataValueSouth: 4
-      dataValueEast: 6
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 399
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 399
-      display: ITEMBLOCK Shutter
+      blockMaterial: DARK_OAK_DOOR
+      itemMaterial: DIAMOND_LEGGINGS
+      open: true
+      rightHinge: true
+      damage: 327
+      display: Shutter [197:8]
       category: Exter
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: THIN_WALL
     cactus_stage2:
       blockMaterial: CACTUS
       dataValue: 2
@@ -350,15 +345,12 @@ Items:
       type: ITEM_BLOCK_TWO_DIRECTIONS
     barrel_empty:
       blockMaterial: CACTUS
-      blockDataValue: 15
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 161
-      contentHeight: 0.3125
+      dataValue: 15
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 161
-      display: ITEMBLOCK Barrel empty
+      damage: 401
+      display: Barrel empty [81:15]
       category: Exter
-      type: ITEM_BLOCK
+      type: BLOCK
     barrel_apples_full:
       blockMaterial: CACTUS
       blockDataValue: 15
@@ -366,7 +358,7 @@ Items:
       contentDamage: 162
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 162
+      damage: 402
       display: ITEMBLOCK Barrel apples full
       category: Exter
       type: ITEM_BLOCK
@@ -377,7 +369,7 @@ Items:
       contentDamage: 163
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 163
+      damage: 403
       display: ITEMBLOCK Barrel apples half
       category: Exter
       type: ITEM_BLOCK
@@ -388,7 +380,7 @@ Items:
       contentDamage: 164
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 164
+      damage: 404
       display: ITEMBLOCK Barrel grapes full
       category: Exter
       type: ITEM_BLOCK
@@ -399,7 +391,7 @@ Items:
       contentDamage: 165
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 165
+      damage: 405
       display: ITEMBLOCK Barrel grapes half
       category: Exter
       type: ITEM_BLOCK
@@ -410,7 +402,7 @@ Items:
       contentDamage: 166
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 166
+      damage: 406
       display: ITEMBLOCK Barrel tomatoes full
       category: Exter
       type: ITEM_BLOCK
@@ -421,7 +413,7 @@ Items:
       contentDamage: 167
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 167
+      damage: 407
       display: ITEMBLOCK Barrel tomatoes half
       category: Exter
       type: ITEM_BLOCK
@@ -432,7 +424,7 @@ Items:
       contentDamage: 168
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 168
+      damage: 408
       display: ITEMBLOCK Barrel potatoes full
       category: Exter
       type: ITEM_BLOCK
@@ -443,7 +435,7 @@ Items:
       contentDamage: 169
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 169
+      damage: 409
       display: ITEMBLOCK Barrel potatoes half
       category: Exter
       type: ITEM_BLOCK
@@ -454,7 +446,7 @@ Items:
       contentDamage: 170
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 170
+      damage: 410
       display: ITEMBLOCK Barrel onions full
       category: Exter
       type: ITEM_BLOCK
@@ -465,7 +457,7 @@ Items:
       contentDamage: 171
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 171
+      damage: 411
       display: ITEMBLOCK Barrel onions half
       category: Exter
       type: ITEM_BLOCK
@@ -476,7 +468,7 @@ Items:
       contentDamage: 172
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 172
+      damage: 412
       display: ITEMBLOCK Barrel wheat full
       category: Exter
       type: ITEM_BLOCK
@@ -487,7 +479,7 @@ Items:
       contentDamage: 173
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 173
+      damage: 413
       display: ITEMBLOCK Barrel wheat half
       category: Exter
       type: ITEM_BLOCK
@@ -498,7 +490,7 @@ Items:
       contentDamage: 174
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 174
+      damage: 414
       display: ITEMBLOCK Barrel meat full
       category: Exter
       type: ITEM_BLOCK
@@ -509,7 +501,7 @@ Items:
       contentDamage: 175
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 175
+      damage: 415
       display: ITEMBLOCK Barrel meat half
       category: Exter
       type: ITEM_BLOCK
@@ -520,7 +512,7 @@ Items:
       contentDamage: 176
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 176
+      damage: 416
       display: ITEMBLOCK Barrel fish full
       category: Exter
       type: ITEM_BLOCK
@@ -531,7 +523,7 @@ Items:
       contentDamage: 177
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 177
+      damage: 417
       display: ITEMBLOCK Barrel fish half
       category: Exter
       type: ITEM_BLOCK
@@ -542,7 +534,7 @@ Items:
       contentDamage: 178
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 178
+      damage: 418
       display: ITEMBLOCK Barrel coal full
       category: Exter
       type: ITEM_BLOCK
@@ -553,7 +545,7 @@ Items:
       contentDamage: 179
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 179
+      damage: 419
       display: ITEMBLOCK Barrel coal half
       category: Exter
       type: ITEM_BLOCK
@@ -564,7 +556,7 @@ Items:
       contentDamage: 180
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 180
+      damage: 420
       display: ITEMBLOCK Barrel water full
       category: Exter
       type: ITEM_BLOCK
@@ -575,7 +567,7 @@ Items:
       contentDamage: 181
       contentHeight: 0.3125
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 181
+      damage: 400
       display: ITEMBLOCK Barrel water half
       category: Exter
       type: ITEM_BLOCK
