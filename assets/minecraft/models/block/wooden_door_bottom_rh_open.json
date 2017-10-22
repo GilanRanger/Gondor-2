@@ -1,7 +1,7 @@
 {
     "parent": "block/door_bottom_rh",
     "textures": {
-        "bottom": "blocks/replace",
-        "top": "blocks/unusedb00"
+        "bottom": "blocks/quartz_block",
+        "top": "blocks/quartz_block"
     }
 }

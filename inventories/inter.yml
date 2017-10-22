@@ -780,17 +780,6 @@ Items:
       display: Round barrel
       category: Inter
       type: THREE_AXIS
-    cocoa_age1_s:
-      blockMaterial: COCOA
-      dataValueNorth: 10
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 11
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 329 
-      display: Bookshelf 1 [127:8]
-      category: Inter
-      type: FOUR_DIRECTIONS
     cocoa_age2_s:
       blockMaterial: COCOA
       dataValueNorth: 6
@@ -798,8 +787,19 @@ Items:
       dataValueSouth: 4
       dataValueEast: 7
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 328
-      display: Bookshelf 2 [127:4]
+      damage: 329
+      display: Bookshelf 1 [127:4]
+      category: Inter
+      type: FOUR_DIRECTIONS
+    cocoa_age1_s:
+      blockMaterial: COCOA
+      dataValueNorth: 10
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 11
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 328 
+      display: Bookshelf 2 [127:8]
       category: Inter
       type: FOUR_DIRECTIONS
     beer_mug:

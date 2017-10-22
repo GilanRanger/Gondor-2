@@ -54,10 +54,12 @@ Items:
       category: Exter
       type: VANILLA
     shutter:
-      blockMaterial: WOODEN_DOOR
+      blockMaterial: DARK_OAK_DOOR
       itemMaterial: DIAMOND_LEGGINGS
+      open: true
+      rightHinge: true
       damage: 327
-      display: Shutter [64:8]
+      display: Shutter [197:8]
       category: Exter
       type: THIN_WALL
     cactus_stage2:

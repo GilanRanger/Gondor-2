@@ -2,7 +2,7 @@
     "parent": "block/door_bottom",
     "textures": {
         "particle": "blocks/door_dark_oak_lower",
-        "bottom": "blocks/replace",
+        "bottom": "blocks/double_slab_nether_brick_seamless",
         "top": "blocks/unusedb00"
     }
 }

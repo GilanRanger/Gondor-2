@@ -1,7 +1,7 @@
 {
     "parent": "block/door_bottom_rh",
     "textures": {
-        "bottom": "blocks/replace",
+        "bottom": "blocks/double_slab_stonebrick",
         "top": "blocks/unusedb00"
     }
 }

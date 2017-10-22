@@ -40,6 +40,6 @@
 		{ "predicate": { "damage": 0.39744 }, "model": "gui/misc" },
 		{ "predicate": { "damage": 0.41026 }, "model": "gui/misc_alt" },
 		{ "predicate": { "damage": 0.42308 }, "model": "gui/2Gondor"},
-		{ "predicate": { "damage": 0.43590 }, "model": "gui/Dwarf" }
+		{ "predicate": { "damage": 0.43590 }, "model": "block/unused_cross_0" }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "parent": "itemblock/replace_trapdoor_open",
+    "parent": "itemblock/trapdoor_open",
     "textures": {
         "texture": "blocks/double_slab_stonebrick"
     }

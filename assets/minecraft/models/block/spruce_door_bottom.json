@@ -2,7 +2,7 @@
     "parent": "block/door_bottom",
     "textures": {
         "particle": "blocks/door_spruce_lower",
-        "bottom": "blocks/replace",
+        "bottom": "blocks/planks_birch",
         "top": "blocks/unusedb00"
     }
 }

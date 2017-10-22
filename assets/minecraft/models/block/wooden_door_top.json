@@ -1,8 +1,7 @@
 {
-    "parent": "block/door_top_shutter",
+    "parent": "block/door_top",
     "textures": {
-        "side": "blocks/shutter_side",
-        "bottom": "blocks/shutter_bottom",
-        "top": "blocks/shutter_top"
+        "bottom": "blocks/stonebrick",
+        "top": "blocks/door_wood_upper"
     }
 }

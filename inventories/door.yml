@@ -439,17 +439,20 @@ Items:
         display: ITEMBLOCK Mossy brown bricks top trapdoor
         category: Door
         type: ITEM_BLOCK
-    wooden_door_bottom_open:
-        blockMaterial: WOODEN_DOOR
-        dataValueNorth: 6
+    trapdoor_quartz_normal_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
         dataValueSouth: 4
-        dataValueEast: 7
-        dataValueWest: 5
-        itemMaterial: DIAMOND_LEGGINGS
-        damage: 314
-        display: Large white bricks half door [64:4]
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 303
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 303
+        display: ITEMBLOCK Large white bricks open trapdoor
         category: Door
-        type: OPEN_HALF_DOOR
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
     light_pressure_plate_power9:
         blockMaterial: GOLD_PLATE
         dataValue: 9
@@ -535,17 +538,20 @@ Items:
         display: ITEMBLOCK Cracked large white bricks top trapdoor
         category: Door
         type: ITEM_BLOCK
-    spruce_door_bottom_open:
-        blockMaterial: SPRUCE_DOOR
-        dataValueNorth: 6
+    trapdoor_end_stone_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
         dataValueSouth: 4
-        dataValueEast: 7
-        dataValueWest: 5
-        itemMaterial: DIAMOND_LEGGINGS
-        damage: 315
-        display: Small white bricks half door [193:4]
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 312
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 312
+        display: ITEMBLOCK Small white bricks open trapdoor
         category: Door
-        type: OPEN_HALF_DOOR
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
     light_pressure_plate_power12:
         blockMaterial: GOLD_PLATE
         dataValue: 12
@@ -766,17 +772,20 @@ Items:
         display: ITEMBLOCK Light gray bricks ornament top trapdoor
         category: Door
         type: ITEM_BLOCK
-    jungle_door_bottom_open:
-        blockMaterial: JUNGLE_DOOR
-        dataValueNorth: 6
+    trapdoor_double_slab_stonebrick_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
         dataValueSouth: 4
-        dataValueEast: 7
-        dataValueWest: 5
-        itemMaterial: DIAMOND_LEGGINGS
-        damage: 316
-        display: Small gray bricks half door [195:4]
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 333
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 333
+        display: ITEMBLOCK Small gray bricks open trapdoor
         category: Door
-        type: OPEN_HALF_DOOR
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
     heavy_pressure_plate_power3:
         blockMaterial: IRON_PLATE
         dataValue: 3
@@ -994,17 +1003,20 @@ Items:
         display: ITEMBLOCK Floor pattern block top trapdoor
         category: Door
         type: ITEM_BLOCK
-    acacia_door_bottom_open:
-        blockMaterial: ACACIA_DOOR
-        dataValueNorth: 6
+    trapdoor_brick_open:
+        blockMaterial: IRON_TRAPDOOR
+        dataValueNorth: 5
+        dataValueWest: 7
         dataValueSouth: 4
-        dataValueEast: 7
-        dataValueWest: 5
-        itemMaterial: DIAMOND_LEGGINGS
-        damage: 317
-        display: Dark gray brick half door [196:4]
+        dataValueEast: 6
+        contentItem: DIAMOND_CHESTPLATE
+        contentDamage: 354
+        contentHeight: 0.3125
+        itemMaterial: DIAMOND_CHESTPLATE
+        damage: 354
+        display: ITEMBLOCK Dark gray bricks open trapdoor
         category: Door
-        type: OPEN_HALF_DOOR
+        type: ITEM_BLOCK_FOUR_DIRECTIONS
     heavy_pressure_plate_power10:
         blockMaterial: IRON_PLATE
         dataValue: 10
@@ -1399,15 +1411,3 @@ Items:
         display: ITEMBLOCK White wood planks top trapdoor
         category: Door
         type: ITEM_BLOCK
-    dark_oak_door_bottom_open:
-        blockMaterial: DARK_OAK_DOOR
-        dataValueNorth: 6
-        dataValueSouth: 4
-        dataValueEast: 7
-        dataValueWest: 5
-        itemMaterial: DIAMOND_LEGGINGS
-        damage: 318
-        display: Stone half door [196:4]
-        category: Door
-        type: OPEN_HALF_DOOR
-

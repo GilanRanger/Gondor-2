@@ -336,7 +336,7 @@
 		
 		{ "predicate": { "damage": 0.56900 }, "name": 301, "model": "itemblock/replace" },
 		{ "predicate": { "damage": 0.57089 }, "name": 302, "model": "itemblock/trapdoor_brown_mushroom_block_s_top" },
-		{ "predicate": { "damage": 0.57278 }, "name": 303, "model": "itemblock/replace_trapdoor_quartz_normal_open" },
+		{ "predicate": { "damage": 0.57278 }, "name": 303, "model": "itemblock/trapdoor_quartz_normal_open" },
 		{ "predicate": { "damage": 0.57467 }, "name": 304, "model": "itemblock/replace" },
 		{ "predicate": { "damage": 0.57656 }, "name": 305, "model": "itemblock/trapdoor_quartz_normal_top" },
 		{ "predicate": { "damage": 0.57845 }, "name": 306, "model": "itemblock/trapdoor_double_slab_quartz_seamless_open" },
@@ -346,7 +346,7 @@
 		{ "predicate": { "damage": 0.58601 }, "name": 310, "model": "itemblock/replace" },
 		
 		{ "predicate": { "damage": 0.58790 }, "name": 311, "model": "itemblock/trapdoor_double_slab_quartz_top" },
-		{ "predicate": { "damage": 0.58979 }, "name": 312, "model": "itemblock/replace_trapdoor_end_stone_open" },
+		{ "predicate": { "damage": 0.58979 }, "name": 312, "model": "itemblock/trapdoor_end_stone_open" },
 		{ "predicate": { "damage": 0.59168 }, "name": 313, "model": "itemblock/replace" },
 		{ "predicate": { "damage": 0.59357 }, "name": 314, "model": "itemblock/trapdoor_end_stone_top" },
 		{ "predicate": { "damage": 0.59546 }, "name": 315, "model": "itemblock/trapdoor_end_bricks_open" },
@@ -369,7 +369,7 @@
 		
 		{ "predicate": { "damage": 0.62571 }, "name": 331, "model": "itemblock/trapdoor_stonebrick_chiseled_bottom" },
 		{ "predicate": { "damage": 0.62760 }, "name": 332, "model": "itemblock/trapdoor_stonebrick_chiseled_top" },
-		{ "predicate": { "damage": 0.62949 }, "name": 333, "model": "itemblock/replace_trapdoor_double_slab_stonebrick_open" },
+		{ "predicate": { "damage": 0.62949 }, "name": 333, "model": "itemblock/trapdoor_double_slab_stonebrick_open" },
 		{ "predicate": { "damage": 0.63138 }, "name": 334, "model": "itemblock/replace" },
 		{ "predicate": { "damage": 0.63327 }, "name": 335, "model": "itemblock/trapdoor_double_slab_stonebrick_top" },
 		{ "predicate": { "damage": 0.63516 }, "name": 336, "model": "itemblock/trapdoor_double_slab_stonebrick_seamless_open" },
@@ -392,7 +392,7 @@
 		{ "predicate": { "damage": 0.66352 }, "name": 351, "model": "itemblock/trapdoor_monster_egg_stonebrick_chiseled_open" },
 		{ "predicate": { "damage": 0.66541 }, "name": 352, "model": "itemblock/replace" },
 		{ "predicate": { "damage": 0.66730 }, "name": 353, "model": "itemblock/trapdoor_monster_egg_stonebrick_chiseled_top" },
-		{ "predicate": { "damage": 0.66919 }, "name": 354, "model": "itemblock/replace_trapdoor_brick_open" },
+		{ "predicate": { "damage": 0.66919 }, "name": 354, "model": "itemblock/trapdoor_brick_open" },
 		{ "predicate": { "damage": 0.67108 }, "name": 355, "model": "itemblock/replace" },
 		{ "predicate": { "damage": 0.67297 }, "name": 356, "model": "itemblock/trapdoor_brick_top" },
 		{ "predicate": { "damage": 0.67486 }, "name": 357, "model": "itemblock/trapdoor_double_slab_brick_open" },

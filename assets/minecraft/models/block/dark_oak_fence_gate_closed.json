@@ -1,8 +1,8 @@
 {
     "parent": "block/vertical_slab",
     "textures": {
-        "bottom": "blocks/double_slab_purpur_block",
-        "top": "blocks/double_slab_purpur_block",
-        "side": "blocks/double_slab_purpur_block"
+        "bottom": "blocks/sandstone_normal",
+        "top": "blocks/sandstone_normal",
+        "side": "blocks/sandstone_normal"
     }
 }

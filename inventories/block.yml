@@ -821,26 +821,26 @@ Items:
       display: Tudor block dark stucco outlines [99:7]
       category: Block
       type: BLOCK
-    oak_fence_gate_powered_open:
-      blockMaterial: FENCE_GATE
-      dataValueNorth: 14
-      dataValueWest: 13
-      dataValueSouth: 12
-      dataValueEast: 15
+    dark_oak_fence_gate_closed:
+      blockMaterial: DARK_OAK_FENCE_GATE
+      dataValueNorth: 2
+      dataValueWest: 1
+      dataValueSouth: 0
+      dataValueEast: 3
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 319
-      display: Vertical large sandstone bricks slab [107:12]
+      damage: 235
+      display: Vertical large sandstone bricks slab [186:0]
       category: Block
       type: FOUR_DIRECTIONS
-    spruce_fence_gate_powered_open:
-      blockMaterial: SPRUCE_FENCE_GATE
-      dataValueNorth: 14
-      dataValueWest: 13
-      dataValueSouth: 12
-      dataValueEast: 15
+    dark_oak_fence_gate_powered_closed:
+      blockMaterial: DARK_OAK_FENCE_GATE
+      dataValueNorth: 10
+      dataValueWest: 9
+      dataValueSouth: 8
+      dataValueEast: 11
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 320
-      display: Vertical small sandstone bricks slab [187:12]
+      damage: 237
+      display: Vertical small sandstone bricks slab [186:8]
       category: Block
       type: FOUR_DIRECTIONS
     repeater_delay3_s:
