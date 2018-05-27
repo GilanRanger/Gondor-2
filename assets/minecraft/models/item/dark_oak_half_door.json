@@ -1,6 +1,6 @@
 {
     "parent": "item/half_door_inventory",
     "textures": {
-		"bottom": "blocks/door_dark_oak_lower"
+		"bottom": "blocks/double_slab_nether_brick_seamless"
     }
 }

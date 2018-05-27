@@ -2,6 +2,9 @@
     "multipart": [
         {   "when": { "age": "0" },
             "apply": { "model": "reeds_stage0", "uvlock": true }
+        },
+		{   "when": { "age": "1" },
+            "apply": { "model": "reeds_stage1", "uvlock": true }
         }
     ]
 }

@@ -216,7 +216,7 @@ Items:
       dataValue: 1
       itemMaterial: LONG_GRASS
       damage: 1
-      display: Dark tallgrass [31:1]
+      display: Tallgrass [31:1]
       category: Plant
       type: BLOCK
    fern:
@@ -224,7 +224,7 @@ Items:
       dataValue: 2
       itemMaterial: LONG_GRASS
       damage: 2
-      display: Light tallgrass [31:2]
+      display: Fern [31:2]
       category: Plant
       type: BLOCK
    dead_bush:

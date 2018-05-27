@@ -11,8 +11,9 @@
 		{"when": {"age": 8}, "apply": { "model": "cactus_stage6", "y": 180}},
 		{"when": {"age": 9}, "apply": { "model": "cactus_stage6", "y": 270}},
 		{"when": { "OR": [{"age": "10"},{"age":"11"},{"age":"12"},{"age":"13"},{"age":"14"}]}, "apply": { "model": "tree_spruce_middle"}},
-        {"when": { "OR": [{"age": "10"},{"age":"13"}]}, "apply": { "model": "tree_spruce_sides", "x": 90}},
-        {"when": { "OR": [{"age": "11"},{"age":"13"},{"age":"14"}]}, "apply": { "model": "tree_spruce_sides", "y": 90 }},
-        {"when": { "OR": [{"age": "12"},{"age":"13"},{"age":"14"}]}, "apply": { "model": "tree_spruce_sides"}}
+		{"when": { "OR": [{"age": "10"},{"age":"13"}]}, "apply": { "model": "tree_spruce_sides", "x": 90}},
+		{"when": { "OR": [{"age": "11"},{"age":"13"},{"age":"14"}]}, "apply": { "model": "tree_spruce_sides", "y": 90 }},
+		{"when": { "OR": [{"age": "12"},{"age":"13"},{"age":"14"}]}, "apply": { "model": "tree_spruce_sides"}},
+		{"when": {"age": 15}, "apply": { "model": "barrel"}}
 	]
 }

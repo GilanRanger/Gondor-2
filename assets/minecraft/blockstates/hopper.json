@@ -1,34 +1,6 @@
 {
     "multipart": [
-		{ 	"when": {"facing": "down", "enabled": "true"},
-			"apply": { "model": "hopper_down" }
-		},
-		{ 	"when": {"facing": "north", "enabled": "true"},
-			"apply": { "model": "hopper" }
-		},
-		{ 	"when": {"facing": "south", "enabled": "true"},
-			"apply": { "model": "hopper", "y": 180 }
-		},
-		{ 	"when": {"facing": "west", "enabled": "true"},
-			"apply": { "model": "hopper", "y": 270 }
-		},
-		{ 	"when": {"facing": "east", "enabled": "true"},
-			"apply": { "model": "hopper", "y": 90 }
-		},
-		{ 	"when": {"facing": "down", "enabled": "false"},
-			"apply": { "model": "hopper_powered_down" }
-		},
-		{ 	"when": {"facing": "north", "enabled": "false"},
-			"apply": { "model": "hopper_powered" }
-		},
-		{ 	"when": {"facing": "south", "enabled": "false"},
-			"apply": { "model": "hopper_powered", "y": 180 }
-		},
-		{ 	"when": {"facing": "west", "enabled": "false"},
-			"apply": { "model": "hopper_powered", "y": 270 }
-		},
-		{ 	"when": {"facing": "east", "enabled": "false"},
-			"apply": { "model": "hopper_powered", "y": 90 }
+		{ 	"apply": { "model": "unused_cross_0" }
 		}
     ]
 }

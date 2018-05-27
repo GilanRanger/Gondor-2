@@ -405,7 +405,7 @@ Items:
       dataValue: 0
       itemMaterial: DAYLIGHT_DETECTOR
       damage: 0
-      display: Double stone slab [151:0]
+      display: 1/3 thick stone slab [151:0]
       category: Block2
       type: VANILLA
     cobblestone:
@@ -521,14 +521,6 @@ Items:
       display: Black marble [173:0]
       category: Block2
       type: VANILLA
-    red_nether_brick:
-      blockMaterial: RED_NETHER_BRICK
-      dataValue: 0
-      itemMaterial: RED_NETHER_BRICK
-      damage: 0
-      display: Red tiles [215:0]
-      category: Block2
-      type: VANILLA
     double_slab_planks_acacia:
       blockMaterial: WOOD_DOUBLE_STEP
       dataValue: 4
@@ -567,20 +559,17 @@ Items:
       display: Birch planks vertical slab [184:8]
       category: Block2
       type: FOUR_DIRECTIONS
-    vertical_slab_quartz_block:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 71
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 71
-      display: ITEMBLOCK Vertical white bricks slab
+    birch_fence_gate_powered_open:
+      blockMaterial: BIRCH_FENCE_GATE
+      dataValueNorth: 14
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 15
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 322
+      display: Vertical white bricks slab [184:12]
       category: Block2
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: FOUR_DIRECTIONS
     repeater_delay4_n:
       blockMaterial: DIODE_BLOCK_OFF
       dataValue: 14
@@ -633,34 +622,28 @@ Items:
       display: ITEMBLOCK Small white bricks slab (upper)
       category: Block2
       type: ITEM_BLOCK
-    vertical_slab_end_stone:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 77
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 77
-      display: ITEMBLOCK Vertical small white bricks slab
+    dark_oak_fence_gate_powered_open:
+      blockMaterial: DARK_OAK_FENCE_GATE
+      dataValueNorth: 14
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 15
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 323
+      display: Vertical small white bricks slab [186:12]
       category: Block2
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
-    vertical_slab_stonebrick:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 78
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 78
-      display: ITEMBLOCK Vertical large light gray bricks slab
+      type: FOUR_DIRECTIONS
+    spruce_fence_gate_open:
+      blockMaterial: SPRUCE_FENCE_GATE
+      dataValueNorth: 6
+      dataValueWest: 5
+      dataValueSouth: 4
+      dataValueEast: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 325
+      display: Vertical large light gray bricks slab [183:4]
       category: Block2
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: FOUR_DIRECTIONS
     powered_repeater_delay1_s:
       blockMaterial: DIODE_BLOCK_ON
       dataValue: 0
@@ -713,20 +696,17 @@ Items:
       display: ITEMBLOCK Small light gray bricks slab (upper)
       category: Block2
       type: ITEM_BLOCK
-    vertical_slab_double_slab_stonebrick:
-      blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 84
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 84
-      display: ITEMBLOCK Vertical small light bricks slab
+    jungle_fence_gate_powered_open:
+      blockMaterial: JUNGLE_FENCE_GATE
+      dataValueNorth: 14
+      dataValueWest: 13
+      dataValueSouth: 12
+      dataValueEast: 15
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 324
+      display: Vertical small light bricks slab [185:12]
       category: Block2
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: FOUR_DIRECTIONS
     powered_repeater_delay1_n:
       blockMaterial: DIODE_BLOCK_ON
       dataValue: 2
@@ -807,20 +787,17 @@ Items:
       display: ITEMBLOCK Vertical dark gray bricks slab
       category: Block2
       type: ITEM_BLOCK_FOUR_DIRECTIONS
-    vertical_slab_cobblestone:
+    acacia_fence_gate_open:
       blockMaterial: ACACIA_FENCE_GATE
-      dataValueNorth: 8
-      dataValueWest: 9
-      dataValueSouth: 8
-      dataValueEast: 9
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 92
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 92
-      display: ITEMBLOCK Vertical cobblestone slab
+      dataValueNorth: 6
+      dataValueWest: 5
+      dataValueSouth: 4
+      dataValueEast: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 326
+      display: Vertical cobblestone slab [187:4]
       category: Block2
-      type: ITEM_BLOCK_FOUR_DIRECTIONS
+      type: FOUR_DIRECTIONS
     powered_repeater_delay2_s:
       blockMaterial: DIODE_BLOCK_ON
       dataValue: 4

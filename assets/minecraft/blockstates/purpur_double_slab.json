@@ -1,5 +1,5 @@
 {
     "variants": {
-        "variant=default": { "model": "double_slab_purpur_block" }
+        "variant=default": { "model": "unused_cross_0" }
     }
 }
