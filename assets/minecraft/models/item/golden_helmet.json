@@ -21,8 +21,8 @@
 		{ "predicate": { "damage": 0.17949 }, "model": "gui/roof_alt" },
 		{ "predicate": { "damage": 0.19231 }, "model": "gui/fence" },
 		{ "predicate": { "damage": 0.20513 }, "model": "gui/fence_alt" },
-		{ "predicate": { "damage": 0.21795 }, "model": "gui/door" },
-		{ "predicate": { "damage": 0.23077 }, "model": "gui/door_alt" },
+		{ "predicate": { "damage": 0.21795 }, "model": "gui/thin" },
+		{ "predicate": { "damage": 0.23077 }, "model": "gui/thin_alt" },
 		{ "predicate": { "damage": 0.24359 }, "model": "gui/glass" },
 		{ "predicate": { "damage": 0.25641 }, "model": "gui/glass_alt" },
 		

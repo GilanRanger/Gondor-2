@@ -48,16 +48,18 @@ Items:
       category: Exter
       type: VANILLA
     beacon:
-      itemMaterial: BEACON
-      damage: 0
+      blockMaterial: BEACON
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 337
       display: Lantern [138:0]
       category: Exter
-      type: VANILLA
+      type: BLOCK
     shutter:
       blockMaterial: DARK_OAK_DOOR
       itemMaterial: DIAMOND_LEGGINGS
       open: true
-      rightHinge: true
+      rightHinge: false
       damage: 327
       display: Shutter [197:8]
       category: Exter
@@ -83,6 +85,33 @@ Items:
       display: Wheel [34:0]
       category: Exter
       type: SIX_FACES
+    cocoa_age0_s:
+      blockMaterial: COCOA
+      dataValueNorth: 2
+      dataValueWest: 1
+      dataValueSouth: 0
+      dataValueEast: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 334
+      display: Wheel (short axle) [127:0]
+      category: Exter
+      type: FOUR_DIRECTIONS
+    repeater_delay2_n:
+      blockMaterial: DIODE_BLOCK_OFF
+      dataValue: 6
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 335
+      display: Wheel (on floor) [93:6]
+      category: Exter
+      type: BLOCK
+    repeater_delay2_e:
+      blockMaterial: DIODE_BLOCK_OFF
+      dataValue: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 336
+      display: Wheel (on ceiling) [93:7]
+      category: Exter
+      type: BLOCK
     chain_up_north:
       blockMaterial: REDSTONE_WIRE
       dataValue: 1

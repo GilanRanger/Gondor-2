@@ -1,9 +1,9 @@
 {
     "parent": "block/half_slab",
     "textures": {
-        "bottom": "blocks/nether_wart_block",
-        "top": "blocks/nether_wart_block",
-		"side": "blocks/nether_wart_block"
+        "bottom": "blocks/unusedb00",
+        "top": "blocks/unusedb00",
+		"side": "blocks/unusedb00"
     }
 }
 

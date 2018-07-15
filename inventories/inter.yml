@@ -1,4 +1,74 @@
 Items:
+    wooden_door_powered:
+      blockMaterial: WOODEN_DOOR      
+      powered: true
+      itemMaterial: WOOD_DOOR
+      damage: 0
+      display: Wooden door 1 [64:10]
+      category: Inter
+      type: DOOR
+    spruce_door_powered:
+      blockMaterial: SPRUCE_DOOR      
+      powered: true
+      itemMaterial: SPRUCE_DOOR_ITEM
+      damage: 0
+      display: Wooden door 2 [193:10]
+      category: Inter
+      type: DOOR
+    birch_door:
+      blockMaterial: BIRCH_DOOR
+      itemMaterial: BIRCH_DOOR_ITEM
+      damage: 0
+      display: Wooden door 3 [194:8]
+      category: Inter
+      type: DOOR
+    jungle_door_powered:
+      blockMaterial: JUNGLE_DOOR      
+      powered: true
+      itemMaterial: JUNGLE_DOOR_ITEM
+      damage: 0
+      display: Makeshift door [195:10]
+      category: Inter
+      type: DOOR
+    acacia_door_powered:
+      blockMaterial: ACACIA_DOOR      
+      powered: true
+      itemMaterial: ACACIA_DOOR_ITEM
+      damage: 0
+      display: Wooden door 4 [196:10]
+      category: Inter
+      type: DOOR
+    dark_oak_door_powered:
+      blockMaterial: DARK_OAK_DOOR      
+      powered: true
+      itemMaterial: DARK_OAK_DOOR_ITEM
+      damage: 0
+      display: Sturdy door [197:10]
+      category: Inter
+      type: DOOR
+    iron_door:
+      blockMaterial: IRON_DOOR_BLOCK
+      itemMaterial: IRON_DOOR
+      damage: 0
+      display: Prison cell door [71:8]
+      category: Inter
+      type: DOOR
+    birch_door_powered:
+      blockMaterial: BIRCH_DOOR
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 126
+      display: Palace door [194:10]
+      category: Inter
+      type: DOOR
+      powered: true
+    iron_door_powered:
+      blockMaterial: IRON_DOOR_BLOCK
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 127
+      display: Barn door [71:10]
+      category: Inter
+      type: DOOR
+      powered: true
     chest:
       itemMaterial: CHEST
       damage: 0
