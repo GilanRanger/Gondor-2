@@ -161,10 +161,10 @@ Items:
       display: Red gravel [12:1]
       category: Terra
       type: VANILLA
-   nether_wart_block:
-      itemMaterial: NETHER_WART_BLOCK
+   nether_brick:
+      itemMaterial: NETHER_BRICK
       damage: 0
-      display: Rough gravel [214:0]
+      display: Rough gravel [112:0]
       category: Terra
       type: VANILLA
    mycelium:
@@ -250,8 +250,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_stone_natural:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 2
       contentHeight: 0.3125
@@ -269,8 +269,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_granite:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 4
       contentHeight: 0.3125
@@ -288,8 +288,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_quartz_ore:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 269
       contentHeight: 0.3125
@@ -307,8 +307,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_granite_smooth:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 6
       contentHeight: 0.3125
@@ -326,8 +326,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_diorite:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 8
       contentHeight: 0.3125
@@ -345,8 +345,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_diamond_ore:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 265
       contentHeight: 0.3125
@@ -364,8 +364,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_diorite_smooth:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 10
       contentHeight: 0.3125
@@ -383,8 +383,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_andesite:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 12
       contentHeight: 0.3125
@@ -402,8 +402,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_andesite_smooth:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 14
       contentHeight: 0.3125
@@ -421,8 +421,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_emerald_ore:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 267
       contentHeight: 0.3125
@@ -440,8 +440,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_hardened_clay:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 16
       contentHeight: 0.3125
@@ -459,8 +459,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_dirt:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 18
       contentHeight: 0.3125
@@ -478,8 +478,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_clay:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 20
       contentHeight: 0.3125
@@ -497,8 +497,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_soul_sand:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 22
       contentHeight: 0.3125
@@ -516,8 +516,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_coarse_dirt:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 24
       contentHeight: 0.3125
@@ -535,8 +535,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_sand:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 43
       contentHeight: 0.3125
@@ -554,8 +554,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_gravel:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 45
       contentHeight: 0.3125
@@ -583,25 +583,22 @@ Items:
       display: ITEMBLOCK Red gravel slab (upper)
       category: Terra
       type: ITEM_BLOCK
-   comparator_powered_subtract_s:
-      blockMaterial: REDSTONE_COMPARATOR_OFF
-      dataValue: 12
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 226
-      display: Rough gravel slab (lower)
+   nether_brick_stairs:
+      blockMaterial: NETHER_BRICK_STAIRS
+      dataValue: 0
+      itemMaterial: NETHER_BRICK_STAIRS
+      damage: 0
+      display: Rough gravel stairs [114:0]
       category: Terra
-      type: BLOCK
-   upper_slab_nether_wart_block:
+      type: VANILLA
+   nether_brick_slab:
       blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 49
-      contentHeight: 0.3125
-      itemMaterial: DIAMOND_CHESTPLATE
-      damage: 49
-      display: ITEMBLOCK Rough gravel slab (upper)
+      dataValue: 6
+      itemMaterial: STEP
+      damage: 6
+      display: Rough gravel slab [44:6]
       category: Terra
-      type: ITEM_BLOCK
+      type: VANILLA
    comparator_powered_subtract_w:
       blockMaterial: REDSTONE_COMPARATOR_OFF
       dataValue: 13
@@ -611,8 +608,8 @@ Items:
       category: Terra
       type: BLOCK
    upper_slab_mycelium:
-      blockMaterial: STEP
-      blockDataValue: 14
+      blockMaterial: IRON_TRAPDOOR
+      blockDataValue: 8
       contentItem: DIAMOND_CHESTPLATE
       contentDamage: 51
       contentHeight: 0.3125

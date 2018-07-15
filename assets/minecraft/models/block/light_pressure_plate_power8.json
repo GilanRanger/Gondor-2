@@ -1,6 +1,6 @@
 {
     "parent": "block/trapdoor_bottom",
     "textures": {
-        "texture": "blocks/brown_mushroom_block_s"
+        "texture": "blocks/double_slab_nether_brick"
     }
 }

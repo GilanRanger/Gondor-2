@@ -56,7 +56,7 @@
 		{ "predicate": { "damage": 0.08696 }, "name":  46, "model": "itemblock/replace" },
 		{ "predicate": { "damage": 0.08885 }, "name":  47, "model": "itemblock/upper_slab_red_sand" },
 		{ "predicate": { "damage": 0.09074 }, "name":  48, "model": "itemblock/replace" },
-		{ "predicate": { "damage": 0.09263 }, "name":  49, "model": "itemblock/upper_slab_nether_wart_block" },
+		{ "predicate": { "damage": 0.09263 }, "name":  49, "model": "itemblock/replace" },
 		{ "predicate": { "damage": 0.09452 }, "name":  50, "model": "itemblock/replace" },
 		
 		{ "predicate": { "damage": 0.09641 }, "name":  51, "model": "itemblock/upper_slab_mycelium" },

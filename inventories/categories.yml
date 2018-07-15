@@ -35,11 +35,11 @@ Categories:
         damage: 15
         damageCurrent: 16
         display: Fences and walls
-    Door:
+    Thin:
         itemMaterial: GOLD_HELMET
         damage: 17
         damageCurrent: 18
-        display: Doors, gates and thin walls
+        display: Thin walls and slabs
     Glass:
         itemMaterial: GOLD_HELMET
         damage: 19
