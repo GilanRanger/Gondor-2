@@ -375,8 +375,8 @@
 		{ "predicate": { "damage": 0.67742 }, "name": 336, "model": "block/cocoa_age0_s" },
 		{ "predicate": { "damage": 0.67944 }, "name": 337, "model": "item/beacon_default" },
 		{ "predicate": { "damage": 0.68145 }, "name": 338, "model": "block/unused_cross_0" },
-		{ "predicate": { "damage": 0.68347 }, "name": 339, "model": "block/unused_cross_0" },
-		{ "predicate": { "damage": 0.68548 }, "name": 340, "model": "block/unused_cross_0" },
+		{ "predicate": { "damage": 0.68347 }, "name": 339, "model": "item/stationary_lava" },
+		{ "predicate": { "damage": 0.68548 }, "name": 340, "model": "item/stationary_lava_height2" },
 
 		{ "predicate": { "damage": 0.68750 }, "name": 341, "model": "item/stationary_water" },
 		{ "predicate": { "damage": 0.68952 }, "name": 342, "model": "item/stationary_water_height2" },
@@ -393,12 +393,12 @@
 		{ "predicate": { "damage": 0.70968 }, "name": 352, "model": "block/brown_mushroom_block_n" },
 		{ "predicate": { "damage": 0.71169 }, "name": 353, "model": "block/brown_mushroom_block_ne" },
 		{ "predicate": { "damage": 0.71371 }, "name": 354, "model": "block/brown_mushroom_block_w" },
-		{ "predicate": { "damage": 0.71573 }, "name": 355, "model": "block/unused_cross_0" },
-		{ "predicate": { "damage": 0.71774 }, "name": 356, "model": "block/unused_cross_0" },
-		{ "predicate": { "damage": 0.71976 }, "name": 357, "model": "block/unused_cross_0" },
-		{ "predicate": { "damage": 0.72177 }, "name": 358, "model": "block/unused_cross_0" },
-		{ "predicate": { "damage": 0.72379 }, "name": 359, "model": "block/unused_cross_0" },
-		{ "predicate": { "damage": 0.72581 }, "name": 360, "model": "block/unused_cross_0" }
+		{ "predicate": { "damage": 0.71573 }, "name": 355, "model": "item/stationary_lava_height4" },
+		{ "predicate": { "damage": 0.71774 }, "name": 356, "model": "item/stationary_lava_height6" },
+		{ "predicate": { "damage": 0.71976 }, "name": 357, "model": "item/stationary_lava_height8" },
+		{ "predicate": { "damage": 0.72177 }, "name": 358, "model": "item/stationary_lava_height10" },
+		{ "predicate": { "damage": 0.72379 }, "name": 359, "model": "item/stationary_lava_height12" },
+		{ "predicate": { "damage": 0.72581 }, "name": 360, "model": "item/stationary_lava_height14" }
 
     ]
 }

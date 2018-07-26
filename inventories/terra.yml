@@ -237,18 +237,6 @@ Items:
       display: Ice [174:0]
       category: Terra
       type: VANILLA
-   bucket_water:
-      itemMaterial: WATER_BUCKET
-      damage: 0
-      display: Water [9:0]
-      category: Terra
-      type: VANILLA
-   bucket_lava:
-      itemMaterial: LAVA_BUCKET
-      damage: 0
-      display: Lava [11:0]
-      category: Terra
-      type: VANILLA
    powered_repeater_delay3_n:
       blockMaterial: DIODE_BLOCK_ON
       dataValue: 10
@@ -626,3 +614,131 @@ Items:
       display: ITEMBLOCK Greenish dirt slab (upper)
       category: Terra
       type: ITEM_BLOCK
+   water0:
+      blockMaterial: STATIONARY_WATER
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 341
+      display: Water block level 8 [9:0]
+      category: Terra
+      type: BLOCK
+   water1:
+      blockMaterial: STATIONARY_WATER
+      dataValue: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 348
+      display: Water block level 7 [9:1]
+      category: Terra
+      type: BLOCK
+   water2:
+      blockMaterial: STATIONARY_WATER
+      dataValue: 2
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 347
+      display: Water block level 6 [9:2]
+      category: Terra
+      type: BLOCK
+   water3:
+      blockMaterial: STATIONARY_WATER
+      dataValue: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 346
+      display: Water block level 5 [9:3]
+      category: Terra
+      type: BLOCK
+   water4:
+      blockMaterial: STATIONARY_WATER
+      dataValue: 4
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 345
+      display: Water block level 4 [9:4]
+      category: Terra
+      type: BLOCK
+   water5:
+      blockMaterial: STATIONARY_WATER
+      dataValue: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 344
+      display: Water block level 3 [9:5]
+      category: Terra
+      type: BLOCK
+   water6:
+      blockMaterial: STATIONARY_WATER
+      dataValue: 6
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 343
+      display: Water block level 2 [9:6]
+      category: Terra
+      type: BLOCK
+   water7:
+      blockMaterial: STATIONARY_WATER
+      dataValue: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 342
+      display: Water block level 1 [9:7]
+      category: Terra
+      type: BLOCK
+   lava0:
+      blockMaterial: STATIONARY_LAVA
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 339
+      display: Lava block level 8 [11:0]
+      category: Terra
+      type: BLOCK
+   lava1:
+      blockMaterial: STATIONARY_LAVA
+      dataValue: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 360
+      display: Lava block level 7 [11:1]
+      category: Terra
+      type: BLOCK
+   lava2:
+      blockMaterial: STATIONARY_LAVA
+      dataValue: 2
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 359
+      display: Lava block level 6 [11:2]
+      category: Terra
+      type: BLOCK
+   lava3:
+      blockMaterial: STATIONARY_LAVA
+      dataValue: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 358
+      display: Lava block level 5 [11:3]
+      category: Terra
+      type: BLOCK
+   lava4:
+      blockMaterial: STATIONARY_LAVA
+      dataValue: 4
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 357
+      display: Lava block level 4 [11:4]
+      category: Terra
+      type: BLOCK
+   lava5:
+      blockMaterial: STATIONARY_LAVA
+      dataValue: 5
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 356
+      display: Lava block level 3 [11:5]
+      category: Terra
+      type: BLOCK
+   lava6:
+      blockMaterial: STATIONARY_LAVA
+      dataValue: 6
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 355
+      display: Lava block level 2 [11:6]
+      category: Terra
+      type: BLOCK
+   lava7:
+      blockMaterial: STATIONARY_LAVA
+      dataValue: 7
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 340
+      display: Lava block level 1 [11:7]
+      category: Terra
+      type: BLOCK
