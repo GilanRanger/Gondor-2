@@ -1,6 +1,6 @@
 {
     "parent": "itemblock/trapdoor_top",
     "textures": {
-        "texture": "blocks/brown_mushroom_block_s"
+        "texture": "blocks/red_nether_brick"
     }
 }

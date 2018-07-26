@@ -95,6 +95,12 @@ Items:
       display: Crate [125:0]
       category: Inter
       type: BLOCK
+    prismarine_rough:
+      itemMaterial: PRISMARINE
+      dataValue: 0
+      display: Sturdy Crate [168:0]
+      category: Inter
+      type: VANILLA
     double_slab_planks_birch:
       blockMaterial: WOOD_DOUBLE_STEP
       dataValue: 2
@@ -184,6 +190,18 @@ Items:
       itemMaterial: DIAMOND_LEGGINGS
       damage: 167
       display: Table [34:1]
+      category: Inter
+      type: SIX_FACES
+    piston_base:
+      blockMaterial: PISTON_BASE
+      dataValueUp: 1
+      dataValueDown: 0
+      dataValueNorth: 2
+      dataValueSouth: 3
+      dataValueWest: 4
+      dataValueEast: 5
+      itemMaterial: PISTON_BASE
+      display: Table on stone base [33:0]
       category: Inter
       type: SIX_FACES
     furnace:

@@ -423,6 +423,46 @@ Items:
       display: Acacia log all-bark [162:12]
       category: Plant
       type: BLOCK
+   brown_mushroom_block_inside_all:
+      blockMaterial: HUGE_MUSHROOM_1
+      dataValue: 0
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 350
+      display: Grey Log [99:0]
+      category: Plant
+      type: BLOCK
+   brown_mushroom_block_nw:
+      blockMaterial: HUGE_MUSHROOM_1
+      dataValue: 1
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 351
+      display: Birch Log [99:1]
+      category: Plant
+      type: BLOCK
+   brown_mushroom_block_n:
+      blockMaterial: HUGE_MUSHROOM_1
+      dataValue: 2
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 352
+      display: Mossy Log [99:2]
+      category: Plant
+      type: BLOCK
+   brown_mushroom_block_ne:
+      blockMaterial: HUGE_MUSHROOM_1
+      dataValue: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 353
+      display: Very Mossy Log [99:3]
+      category: Plant
+      type: BLOCK
+   brown_mushroom_block_w:
+      blockMaterial: HUGE_MUSHROOM_1
+      dataValue: 4
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 354
+      display: Red Log [99:4]
+      category: Plant
+      type: BLOCK
    chorus_plant:
       blockMaterial: CHORUS_PLANT
       dataValue: 0

@@ -1,7 +1,6 @@
 {
     "variants": {
         "normal": [
-            { "model": "double_slab_planks_jungle" },
             { "model": "double_slab_planks_jungle_1" },
             { "model": "double_slab_planks_jungle_2" },
             { "model": "double_slab_planks_jungle_3" },

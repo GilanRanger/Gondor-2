@@ -2,6 +2,6 @@
     "parent": "block/cube_column",
     "textures": {
         "end": "blocks/sandstone_smooth",
-        "side": "blocks/piston_sticky_nwd_side"
+        "side": "blocks/red_mushroom_nwd_side"
     }
 }

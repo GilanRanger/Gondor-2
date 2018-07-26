@@ -112,6 +112,18 @@ Items:
       display: Wheel (on ceiling) [93:7]
       category: Exter
       type: BLOCK
+    sticky_piston:
+      blockMaterial: PISTON_STICKY_BASE
+      dataValueUp: 1
+      dataValueDown: 0
+      dataValueNorth: 2
+      dataValueSouth: 3
+      dataValueWest: 4
+      dataValueEast: 5
+      itemMaterial: PISTON_STICKY_BASE
+      display: Wheel on stone base [29:0]
+      category: Exter
+      type: SIX_FACES
     chain_up_north:
       blockMaterial: REDSTONE_WIRE
       dataValue: 1
@@ -273,7 +285,7 @@ Items:
     glass_pane_red:
       itemMaterial: STAINED_GLASS_PANE
       damage: 14
-      display: Net [160:14]
+      display: Net / Thin rope [160:14]
       category: Exter
       type: VANILLA
     clothesline_empty:

@@ -1,7 +1,8 @@
 {
-    "parent": "block/cube_column",
+    "parent": "block/piston",
     "textures": {
-        "end": "blocks/sandstone_smooth",
-        "side": "blocks/piston_normal_side"
+        "bottom": "blocks/stonebrick",
+        "side": "blocks/piston_side",
+        "platform": "blocks/piston_head_normal_top"
     }
 }

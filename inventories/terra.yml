@@ -205,6 +205,14 @@ Items:
       display: Dark soil [60:3]
       category: Terra
       type: BLOCK
+   double_slab_planks_jungle:
+      blockMaterial: WOOD_DOUBLE_STEP
+      dataValue: 3
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 349
+      display: Red Slate [125:3]
+      category: Terra
+      type: BLOCK
    snow:
       itemMaterial: SNOW_BLOCK
       damage: 0

@@ -1,6 +1,6 @@
 {
     "variants": {
-        "half=bottom": { "model": "unused_cross_0" },
+        "half=bottom": { "model": "half_slab_nether_brick" },
         "half=top": { "model": "placeholder" }
     }
 }

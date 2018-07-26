@@ -157,7 +157,7 @@ Items:
       dataValueEast: 6
       itemMaterial: DIAMOND_LEGGINGS
       damage: 307
-      display: Sandstone with red bricks corner [251:6]
+      display: Large sandstone with red bricks [251:6]
       category: Block
       type: FOUR_DIRECTIONS
     yellow_concrete:
@@ -171,81 +171,70 @@ Items:
       display: Sandstone ornament large bricks corner [251:4]
       category: Block
       type: FOUR_DIRECTIONS
-    red_mushroom_block_inside_all:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValueNorth: 0
-      dataValueSouth: 0
-      dataValueWest: 1
-      dataValueEast: 1
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 64
-      display: Small sandstone bricks cornerstones [100:0]
-      category: Block
-      type: FOUR_DIRECTIONS
-    red_mushroom_block_n:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValueNorth: 2
-      dataValueSouth: 2
-      dataValueWest: 3
-      dataValueEast: 3
+    brown_mushroom_block_c:
+      blockMaterial: HUGE_MUSHROOM_1
+      dataValueNorth: 5
+      dataValueSouth: 5
+      dataValueWest: 6
+      dataValueEast: 6
       itemMaterial: DIAMOND_LEGGINGS
       damage: 65
-      display: Sandstone ornament cornerstones [100:2]
+      display: Small sandstone bricks cornerstones [99:5]
       category: Block
       type: FOUR_DIRECTIONS
-#    silver_concrete_powder:
-      blockMaterial: CONCRETE_POWDER
-      dataValueNorth: 8 
-      dataValueSouth: 8 
-      dataValueWest: 9 
-      dataValueEast: 9 
-      itemMaterial: CONCRETE_POWDER
-      damage: 8 
-      display: Large sandstone with red bricks cornerstones [252:8]
+    brown_mushroom_block_sw:
+      blockMaterial: HUGE_MUSHROOM_1
+      dataValueNorth: 7
+      dataValueSouth: 7
+      dataValueWest: 8
+      dataValueEast: 8
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 66
+      display: Sandstone ornament cornerstones [99:7]
       category: Block
       type: FOUR_DIRECTIONS
-    silver_concrete_powder:
-      blockMaterial: CONCRETE_POWDER
-      dataValueNorth: 8 
-      dataValueSouth: 8 
-      dataValueWest: 9 
-      dataValueEast: 9 
-      itemMaterial: CONCRETE_POWDER
-      damage: 8 
-      display: Large sandstone with red bricks [252:8]
+    brown_mushroom_block_se:
+      blockMaterial: HUGE_MUSHROOM_1
+      dataValueNorth: 9
+      dataValueSouth: 9
+      dataValueWest: 10
+      dataValueEast: 10
+      itemMaterial: DIAMOND_LEGGINGS
+      damage: 67
+      display: Sandstone with red bricks corner [99:9]
       category: Block
       type: FOUR_DIRECTIONS
-    piston_normal:
-      blockMaterial: PISTON_BASE
+    brown_mushroom_normal:
+      blockMaterial: HUGE_MUSHROOM_2
       dataValueUp: 1
-      dataValueDown: 0
-      dataValueNorth: 2
-      dataValueSouth: 3
-      dataValueWest: 4
+      dataValueDown: 2
+      dataValueNorth: 3
+      dataValueSouth: 4
+      dataValueWest: 6
       dataValueEast: 5
       itemMaterial: DIAMOND_LEGGINGS
       damage: 71
-      display: Sandstone pillar end [33:0]
+      display: Sandstone pillar end [100:1]
       category: Block
       type: SIX_FACES
-    piston_sticky_seu:
-      blockMaterial: PISTON_STICKY_BASE
-      dataValueY: 1
-      dataValueX: 5
-      dataValueZ: 3
+    brown_mushroom_seu:
+      blockMaterial: HUGE_MUSHROOM_2
+      dataValueY: 7
+      dataValueX: 9
+      dataValueZ: 8
       itemMaterial: DIAMOND_LEGGINGS
       damage: 72
-      display: Sandstone pillar middle [29:1]
+      display: Sandstone pillar middle [100:7]
       category: Block
       type: THREE_AXIS
-    piston_sticky_nwd:
-      blockMaterial: PISTON_STICKY_BASE
-      dataValueY: 0
-      dataValueX: 4
-      dataValueZ: 2
+    brown_mushroom_nwd:
+      blockMaterial: HUGE_MUSHROOM_2
+      dataValueY: 10
+      dataValueX: 14
+      dataValueZ: 15
       itemMaterial: DIAMOND_LEGGINGS
       damage: 73
-      display: Sandstone pillar middle alt [29:0]
+      display: Sandstone pillar middle alt [100:10]
       category: Block
       type: THREE_AXIS
     anvil_damage0_ne:
@@ -294,14 +283,11 @@ Items:
       display: Fancy sandstone pillar top [81:5]
       category: Block
       type: BLOCK
-    double_slab_nether_brick:
-      blockMaterial: DOUBLE_STEP
-      dataValue: 6
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 77
-      display: Red bricks [43:6]
+    red_nether_brick:
+      itemMaterial: RED_NETHER_BRICK
+      display: red bricks [215:0]
       category: Block
-      type: BLOCK
+      type: VANILLA
     double_slab_netherbrick_seamless:
       blockMaterial: DOUBLE_STEP
       dataValue: 14
@@ -310,12 +296,12 @@ Items:
       display: Brown bricks [43:14]
       category: Block
       type: BLOCK
-    brown_mushroom_block_s:
-      blockMaterial: HUGE_MUSHROOM_1
-      dataValue: 8
+    double_slab_nether_brick:
+      blockMaterial: DOUBLE_STEP
+      dataValue: 6
       itemMaterial: DIAMOND_LEGGINGS
-      damage: 113
-      display: Mossy brown bricks [99:8]
+      damage: 77
+      display: Mossy brown bricks [43:6]
       category: Block
       type: BLOCK
     silver_concrete:
@@ -482,22 +468,18 @@ Items:
       display: Weathered light stucco upper corner [238:0]
       category: Block
       type: VANILLA
-    red_mushroom_block_sw:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValue: 7
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 69
-      display: Weathered stucco (stucco inner) [100:7]
+    cyan_concrete_powder:
+      itemMaterial: CONCRETE_POWDER
+      damage: 9
       category: Block
-      type: BLOCK
-    red_mushroom_block_s:
-      blockMaterial: HUGE_MUSHROOM_2
-      dataValue: 8
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 70
-      display: Weathered stucco (stucco outer) [100:8]
+      display: Weathered stucco (stucco inner) [252:9]
+      type: VANILLA
+    light_gray_concrete_powder:
+      itemMaterial: CONCRETE_POWDER
+      damage: 8
       category: Block
-      type: BLOCK
+      display: Weathered stucco (stucco inner) [252:8]
+      type: VANILLA
     yellow_glazed_terracotta_sw:
       blockMaterial: YELLOW_GLAZED_TERRACOTTA
       dataValueNorth: 0

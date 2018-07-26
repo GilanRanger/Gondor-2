@@ -74,16 +74,16 @@
 		{ "predicate": { "damage": 0.12500 }, "name":  62, "model": "block/double_slab_sandstone" },
 		{ "predicate": { "damage": 0.12702 }, "name":  63, "model": "block/double_slab_red_sandstone" },
 		{ "predicate": { "damage": 0.12903 }, "name":  64, "model": "block/red_mushroom_block_inside_all" },
-		{ "predicate": { "damage": 0.13105 }, "name":  65, "model": "block/red_mushroom_block_n" },
-		{ "predicate": { "damage": 0.13306 }, "name":  66, "model": "block/red_mushroom_block_w" },
-		{ "predicate": { "damage": 0.13508 }, "name":  67, "model": "block/red_mushroom_block_c" },
+		{ "predicate": { "damage": 0.13105 }, "name":  65, "model": "block/brown_mushroom_block_c" },
+		{ "predicate": { "damage": 0.13306 }, "name":  66, "model": "block/brown_mushroom_block_sw" },
+		{ "predicate": { "damage": 0.13508 }, "name":  67, "model": "block/brown_mushroom_block_se" },
 		{ "predicate": { "damage": 0.13710 }, "name":  68, "model": "block/red_mushroom_block_e" },
 		{ "predicate": { "damage": 0.13911 }, "name":  69, "model": "block/red_mushroom_block_sw" },
 		{ "predicate": { "damage": 0.14113 }, "name":  70, "model": "block/red_mushroom_block_s" },
 		
-		{ "predicate": { "damage": 0.14315 }, "name":  71, "model": "block/piston_normal" },
-		{ "predicate": { "damage": 0.14516 }, "name":  72, "model": "block/piston_sticky_seu" },
-		{ "predicate": { "damage": 0.14718 }, "name":  73, "model": "block/piston_sticky_nwd" },
+		{ "predicate": { "damage": 0.14315 }, "name":  71, "model": "block/red_mushroom_block_normal" },
+		{ "predicate": { "damage": 0.14516 }, "name":  72, "model": "block/red_mushroom_block_seu" },
+		{ "predicate": { "damage": 0.14718 }, "name":  73, "model": "block/red_mushroom_block_nwd" },
 		{ "predicate": { "damage": 0.14919 }, "name":  74, "model": "block/cactus_stage3" },
 		{ "predicate": { "damage": 0.15121 }, "name":  75, "model": "block/cactus_stage4" },
 		{ "predicate": { "damage": 0.15323 }, "name":  76, "model": "block/cactus_stage5" },
@@ -376,6 +376,29 @@
 		{ "predicate": { "damage": 0.67944 }, "name": 337, "model": "item/beacon_default" },
 		{ "predicate": { "damage": 0.68145 }, "name": 338, "model": "block/unused_cross_0" },
 		{ "predicate": { "damage": 0.68347 }, "name": 339, "model": "block/unused_cross_0" },
-		{ "predicate": { "damage": 0.68548 }, "name": 340, "model": "block/unused_cross_0" }
+		{ "predicate": { "damage": 0.68548 }, "name": 340, "model": "block/unused_cross_0" },
+
+		{ "predicate": { "damage": 0.68750 }, "name": 341, "model": "item/stationary_water" },
+		{ "predicate": { "damage": 0.68952 }, "name": 342, "model": "item/stationary_water_height2" },
+		{ "predicate": { "damage": 0.69153 }, "name": 343, "model": "item/stationary_water_height4" },
+		{ "predicate": { "damage": 0.69355 }, "name": 344, "model": "item/stationary_water_height6" },
+		{ "predicate": { "damage": 0.69556 }, "name": 345, "model": "item/stationary_water_height8" },
+		{ "predicate": { "damage": 0.69758 }, "name": 346, "model": "item/stationary_water_height10" },
+		{ "predicate": { "damage": 0.69960 }, "name": 347, "model": "item/stationary_water_height12" },
+		{ "predicate": { "damage": 0.70161 }, "name": 348, "model": "item/stationary_water_height14" },
+		{ "predicate": { "damage": 0.70363 }, "name": 349, "model": "block/double_slab_planks_jungle_1"},
+		{ "predicate": { "damage": 0.70565 }, "name": 350, "model": "block/brown_mushroom_block_inside_all" },
+
+		{ "predicate": { "damage": 0.70766 }, "name": 351, "model": "block/brown_mushroom_block_nw" },
+		{ "predicate": { "damage": 0.70968 }, "name": 352, "model": "block/brown_mushroom_block_n" },
+		{ "predicate": { "damage": 0.71169 }, "name": 353, "model": "block/brown_mushroom_block_ne" },
+		{ "predicate": { "damage": 0.71371 }, "name": 354, "model": "block/brown_mushroom_block_w" },
+		{ "predicate": { "damage": 0.71573 }, "name": 355, "model": "block/unused_cross_0" },
+		{ "predicate": { "damage": 0.71774 }, "name": 356, "model": "block/unused_cross_0" },
+		{ "predicate": { "damage": 0.71976 }, "name": 357, "model": "block/unused_cross_0" },
+		{ "predicate": { "damage": 0.72177 }, "name": 358, "model": "block/unused_cross_0" },
+		{ "predicate": { "damage": 0.72379 }, "name": 359, "model": "block/unused_cross_0" },
+		{ "predicate": { "damage": 0.72581 }, "name": 360, "model": "block/unused_cross_0" }
+
     ]
 }

@@ -707,25 +707,22 @@ Items:
       display: Vertical small light bricks slab [185:12]
       category: Block2
       type: FOUR_DIRECTIONS
-    powered_repeater_delay1_n:
-      blockMaterial: DIODE_BLOCK_ON
+    slab_double_slab_stonebrick_seamless:
+      blockMaterial: STEP
       dataValue: 2
-      itemMaterial: DIAMOND_LEGGINGS
-      damage: 200
+      itemMaterial: DIAMOND_CHESTPLATE
+      damage: 82
       display: Light stone brick slab (lower)
       category: Block2
       type: BLOCK
     upper_slab_double_slab_stonebrick_seamless:
       blockMaterial: STEP
-      blockDataValue: 14
-      contentItem: DIAMOND_CHESTPLATE
-      contentDamage: 86
-      contentHeight: 0.3125
+      dataValue: 10
       itemMaterial: DIAMOND_CHESTPLATE
-      damage: 86
-      display: ITEMBLOCK Light stone brick slab (upper)
+      damage: 85
+      display: Light stone brick slab (upper)
       category: Block2
-      type: ITEM_BLOCK
+      type: BLOCK
     vertical_slab_double_slab_stonebrick_seamless:
       blockMaterial: ACACIA_FENCE_GATE
       dataValueNorth: 8

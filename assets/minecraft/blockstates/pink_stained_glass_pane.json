@@ -12,7 +12,7 @@
         {   "when": { "west": true },
             "apply": { "model": "glass_pane_half_left_pink", "y": 90 }
         },
-		{   "when": { "north": false, "east": false, "south": false, "west": false },
+		{   "when": {"north": false, "east": false, "south": false, "west": false },
             "apply": { "model": "unused_cross_0" }
         }
     ]
