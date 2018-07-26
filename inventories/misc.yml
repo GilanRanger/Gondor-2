@@ -378,10 +378,10 @@ Items:
       display: Black Carpet [176:0]
       category: Misc
       type: VANILLA
-    2gondor_inv_opener:
+    gondor_inv_opener:
       itemMaterial: GOLD_HELMET
       damage: 33
-      display: 2Gondor (hold in hand and press 'f')
+      display: Gondor (hold in hand and press 'f')
       category: Misc
       type: VANILLA
     heads_inv_opener:
