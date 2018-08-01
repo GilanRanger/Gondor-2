@@ -1,4 +1,4 @@
-verion 2.4
+version 2.4
 blockstate nether_brick_slab: edited half=bottom
 model/block upper_slab: deleted (wrong appereance of upper brick slabs)
 blockstate reeds: added unused cross models
@@ -23,3 +23,7 @@ improved sticky piston with stonebricks (for wells)
 improved model piston head
 improved model red glass pane (net)
 improved model cactus stage 2 (bell)
+
+version 2.4.1
+fixed model farmland moisture 3
+added optifine/bettergrass.properties (disable for mycel)
